@@ -1,0 +1,432 @@
+{
+  "records": [
+    {
+      "account_code": "13",
+      "account_name": "105-Sales",
+      "balance": 77691323
+    },
+    {
+      "account_code": "14",
+      "account_name": "108-Direct material",
+      "balance": 34918050
+    },
+    {
+      "account_code": "",
+      "account_name": "108-Indirect material",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "Contribution Margin",
+      "balance": 42773273
+    },
+    {
+      "account_code": "14",
+      "account_name": "111-Labor and overhead",
+      "balance": 2308314
+    },
+    {
+      "account_code": "",
+      "account_name": "112-Variances",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "PL113-Cost of Sales",
+      "balance": 37226364
+    },
+    {
+      "account_code": "",
+      "account_name": "PL120-GROSS PROFIT",
+      "balance": 40464959
+    },
+    {
+      "account_code": "15",
+      "account_name": "140-Selling and distribution",
+      "balance": 2351890
+    },
+    {
+      "account_code": "16",
+      "account_name": "150-General and administration",
+      "balance": 16611341
+    },
+    {
+      "account_code": "17",
+      "account_name": "PL155-Depreciation",
+      "balance": 12953691
+    },
+    {
+      "account_code": "",
+      "account_name": "Depreciation-Lease",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "PL156-Amortization",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "Total Operating Expenses",
+      "balance": 31916922
+    },
+    {
+      "account_code": "",
+      "account_name": "PL160-Income from operations",
+      "balance": 8548037
+    },
+    {
+      "account_code": "18",
+      "account_name": "180-Other income",
+      "balance": 1692174
+    },
+    {
+      "account_code": "",
+      "account_name": "198-Gain on sales of investment",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "200-Share in profit of subsidiaries",
+      "balance": 0
+    },
+    {
+      "account_code": "19",
+      "account_name": "210-Foreign exchange gain (loss)",
+      "balance": -100148
+    },
+    {
+      "account_code": "20",
+      "account_name": "PL190-Financial charges",
+      "balance": -5293833
+    },
+    {
+      "account_code": "",
+      "account_name": "Financial charges-Lease",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "PL220-Income before zakat and MI",
+      "balance": 4846230
+    },
+    {
+      "account_code": "",
+      "account_name": "230-Zakat",
+      "balance": -3000000
+    },
+    {
+      "account_code": "",
+      "account_name": "PL240-Income before minority interest",
+      "balance": 1846230
+    },
+    {
+      "account_code": "",
+      "account_name": "250-Minority interest",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "PL260-NET INCOME",
+      "balance": 1846230
+    },
+    {
+      "account_code": "",
+      "account_name": "EBITDA",
+      "balance": 21501728
+    },
+    {
+      "account_code": "",
+      "account_name": "Contribution Margin",
+      "balance": 0.48
+    },
+    {
+      "account_code": "",
+      "account_name": "EBITDA Margin",
+      "balance": 0.28
+    },
+    {
+      "account_code": "",
+      "account_name": "NET Income Margin",
+      "balance": 0.02
+    },
+    {
+      "account_code": "",
+      "account_name": "Operations",
+      "balance": 1846230
+    },
+    {
+      "account_code": "",
+      "account_name": "Non-Operations",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "Balance Sheet",
+      "balance": 0
+    },
+    {
+      "account_code": "01",
+      "account_name": "BS1105-Cash and bank",
+      "balance": 997987
+    },
+    {
+      "account_code": "02",
+      "account_name": "BS1110-Accounts receivables-Trade",
+      "balance": 34867774
+    },
+    {
+      "account_code": "03",
+      "account_name": "BS1115-Prepayment and other receivables",
+      "balance": 2267539
+    },
+    {
+      "account_code": "04",
+      "account_name": "BS1120-Due from related parties",
+      "balance": 107355686
+    },
+    {
+      "account_code": "05",
+      "account_name": "Related  from Parties",
+      "balance": 269355249
+    },
+    {
+      "account_code": "03",
+      "account_name": "BS1130-Financial Control Accounts",
+      "balance": -1966336
+    },
+    {
+      "account_code": "06",
+      "account_name": "BS1135-Inventories",
+      "balance": 31838180
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1100-TOTAL CURRENT ASSETS",
+      "balance": 444716079
+    },
+    {
+      "account_code": "07",
+      "account_name": "BS1205-Property, Plant and Equipment-net",
+      "balance": 33885565
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1206-Property under Capital lease",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1207-Rights of use assets, net",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1210-Investment properties",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1213-Investments",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1215-Investment in subsidiaries",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1220-Goodwill",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1225-Intangible Assets",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1237-Long term receivables",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1200-TOTAL NON-CURRENT ASSETS",
+      "balance": 33885565
+    },
+    {
+      "account_code": "",
+      "account_name": "BS1000-TOTAL ASSETS",
+      "balance": 478601644
+    },
+    {
+      "account_code": "08",
+      "account_name": "BS2105-Accounts payables-Trade",
+      "balance": 5084354
+    },
+    {
+      "account_code": "09",
+      "account_name": "BS2111-Accrued expenses and other liabilit",
+      "balance": 6538473
+    },
+    {
+      "account_code": "10",
+      "account_name": "BS2115-Due to related parties",
+      "balance": 95167196
+    },
+    {
+      "account_code": "",
+      "account_name": "Related to Parties",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2122-Deferred income",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2123-Short term loans",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2125-Current portion of term loans-SIDF",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2130-Current portion of term loans-banks",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2131-Current Portion of Lease Liability",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2140-Dividend Payable",
+      "balance": 0
+    },
+    {
+      "account_code": "11",
+      "account_name": "BS2142-Zakat Payable",
+      "balance": 2999999
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2100-CURRENT LIABILITIES",
+      "balance": 109790022
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2205-Term loans-SIDF",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2207-Term loans-banks",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2209-Lease Liability",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2215-Due to related parties",
+      "balance": 0
+    },
+    {
+      "account_code": "12",
+      "account_name": "BS2220-Employees terminal benefits",
+      "balance": 7884826
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2200-NON-CURRENT LIABILITIES",
+      "balance": 7884826
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2300-TOTAL LIABILITIES",
+      "balance": 117674848
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2505-Share capital",
+      "balance": 13000000
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2510-Proposed share capital increase",
+      "balance": 36659092
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2520-Statutory reserve",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2525-Retained earnings",
+      "balance": 311267704
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2530-Subordinated loans",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2535-Unrealized gains(losses)",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2540-Foreign currency translation reserv",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2555-Total shareholders' equity",
+      "balance": 360926796
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2560-Minority Interest",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2500-TOTAL EQUITY",
+      "balance": 360926796
+    },
+    {
+      "account_code": "",
+      "account_name": "BS2000-TOTAL LIABILITIES AND EQUITY",
+      "balance": 478601644
+    }
+  ],
+  "meta": {
+    "detectedColumns": [
+      "Income Statement",
+      "2020 Balances",
+      "Previous Month Movement",
+      "Current Month Movement",
+      "2021 Closing",
+      "Notes",
+      "",
+      ""
+    ],
+    "codeCol": "Notes",
+    "nameCol": null,
+    "debitCol": null,
+    "creditCol": null,
+    "balanceCol": "2020 Balances",
+    "rowCount": 83
+  }
+}

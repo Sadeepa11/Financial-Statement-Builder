@@ -1,0 +1,1533 @@
+{
+  "statements": {
+    "balance_sheet": {
+      "sections": {
+        "Current Assets": {
+          "items": [
+            {
+              "label": "Purchase Fund",
+              "amount": 37715
+            },
+            {
+              "label": "Riyad Bank SAR",
+              "amount": 0
+            },
+            {
+              "label": "Bank AlBilad SAR",
+              "amount": 327509
+            },
+            {
+              "label": "AlInma Bank SAR",
+              "amount": 504865
+            },
+            {
+              "label": "ANP AlInma Bank",
+              "amount": 0
+            },
+            {
+              "label": "Accounts Receivable Local",
+              "amount": 1241358
+            },
+            {
+              "label": "Advance Receipts Local",
+              "amount": 0
+            },
+            {
+              "label": "Unallocated Receipts Local",
+              "amount": -330647
+            },
+            {
+              "label": "Account Receivable Export",
+              "amount": 0
+            },
+            {
+              "label": "Account Receivable Intercompan",
+              "amount": 11301295
+            },
+            {
+              "label": "Account Receivable Government",
+              "amount": 103583805
+            },
+            {
+              "label": "Accounts Receivable Others",
+              "amount": 0
+            },
+            {
+              "label": "Accounts Under Clearance",
+              "amount": -77162
+            },
+            {
+              "label": "Prepaid Housing Allowance Exp.",
+              "amount": 216121
+            },
+            {
+              "label": "Prepaid Warehouse Rent Exp.",
+              "amount": 0
+            },
+            {
+              "label": "Prepaid Factory Buillding Rent",
+              "amount": 46562
+            },
+            {
+              "label": "Prepaid Land Rent",
+              "amount": 0
+            },
+            {
+              "label": "Prepaid Mempershep Fee",
+              "amount": 9983
+            },
+            {
+              "label": "Prepaid Legal Fee",
+              "amount": 0
+            },
+            {
+              "label": "Custom Duty Refundable",
+              "amount": 458988
+            },
+            {
+              "label": "Prepaid Others",
+              "amount": 0
+            },
+            {
+              "label": "Prepaid Saudization",
+              "amount": 349666
+            },
+            {
+              "label": "LG Margin Deposit",
+              "amount": 200000
+            },
+            {
+              "label": "Prepaid Interest",
+              "amount": -23115
+            },
+            {
+              "label": "Advance Visa Charges Deposits",
+              "amount": 0
+            },
+            {
+              "label": "Advance To Suppliers-Domestic",
+              "amount": 109225
+            },
+            {
+              "label": "Advance To Suppliers-Foreign",
+              "amount": 249977
+            },
+            {
+              "label": "Net Advance to Suppliers-VAT",
+              "amount": 352908
+            },
+            {
+              "label": "Gross Advance to Suppliers-VAT",
+              "amount": -358032
+            },
+            {
+              "label": "Cur Acnt-ABC",
+              "amount": 238234543
+            },
+            {
+              "label": "Cur Acnt-OPP",
+              "amount": 168783234
+            },
+            {
+              "label": "Cur Acnt-Commercial Printing",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Folding Carton (Packa",
+              "amount": 316345
+            },
+            {
+              "label": "Cur Acnt-Graphic Center (OGC)",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Flexible",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Paper Industries (OPI",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Technical Fabrics (OT",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Tensile Structures (O",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Education (ORD)",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Refal Environment",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Rigid Plastic",
+              "amount": 72288
+            },
+            {
+              "label": "Cur Acnt-Real Estate",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-ABCn Packaging Tec",
+              "amount": 121
+            },
+            {
+              "label": "Cur Acnt-ABCn Digital Compa",
+              "amount": 0
+            },
+            {
+              "label": "Cur Acnt-Elopak",
+              "amount": 25491
+            },
+            {
+              "label": "Cur Acnt-Refal Binding",
+              "amount": 1163629
+            },
+            {
+              "label": "Raw Materials - Main",
+              "amount": 11058662
+            },
+            {
+              "label": "Inventory - Rm Ink",
+              "amount": 131517
+            },
+            {
+              "label": "Inventory - Rm Prepress",
+              "amount": 393081
+            },
+            {
+              "label": "Consignment Ink Inventory",
+              "amount": 588800
+            },
+            {
+              "label": "Work In Progress",
+              "amount": 5783566
+            },
+            {
+              "label": "Wip - Project (Pcs)",
+              "amount": 0
+            },
+            {
+              "label": "Work In Progres -Opening",
+              "amount": 0
+            },
+            {
+              "label": "Stock Preparation Buffer Stock",
+              "amount": 0
+            },
+            {
+              "label": "Work In Progress (Integration)",
+              "amount": 406941
+            },
+            {
+              "label": "Finished Goods",
+              "amount": 2531632
+            },
+            {
+              "label": "Scrap Inventory",
+              "amount": 2790
+            },
+            {
+              "label": "Stationery",
+              "amount": 75670
+            },
+            {
+              "label": "Auto Shop",
+              "amount": 11618
+            },
+            {
+              "label": "Consumables",
+              "amount": 24656
+            },
+            {
+              "label": "Interim - Variance",
+              "amount": 0
+            },
+            {
+              "label": "Inventory Interim Opening Bala",
+              "amount": 0
+            },
+            {
+              "label": "Interm Cost Serv/Maint-Manual",
+              "amount": 0
+            },
+            {
+              "label": "Interim - Transit Consignment",
+              "amount": 0
+            },
+            {
+              "label": "Interim Cost To Be Received",
+              "amount": 1310
+            },
+            {
+              "label": "Interim Intercompany Transacti",
+              "amount": 0
+            },
+            {
+              "label": "Value Added Tax-Output",
+              "amount": -8259144
+            },
+            {
+              "label": "Value Added Tax-Input",
+              "amount": 513529
+            },
+            {
+              "label": "Interim A/C-Interco",
+              "amount": 0
+            },
+            {
+              "label": "Mobile",
+              "amount": 10089
+            },
+            {
+              "label": "Acc.Dep'n Computers",
+              "amount": -1291924
+            },
+            {
+              "label": "Un-Allocated Payments(Local)",
+              "amount": 50731
+            },
+            {
+              "label": "Un-Allocated Payments(Export)",
+              "amount": 0
+            },
+            {
+              "label": "Un-Allocated Payments(Interco)",
+              "amount": 0
+            },
+            {
+              "label": "Invoice To Be Received",
+              "amount": -205659
+            },
+            {
+              "label": "Invoice To Be Recieved(Manual)",
+              "amount": 0
+            },
+            {
+              "label": "Anticipated Payments (Import)",
+              "amount": 0
+            },
+            {
+              "label": "Registered Invoices (Local)",
+              "amount": 0
+            },
+            {
+              "label": "Registered Invoices (Import)",
+              "amount": 0
+            },
+            {
+              "label": "Anticipated Payments (Local)",
+              "amount": 0
+            },
+            {
+              "label": "Advance From Customers- Local",
+              "amount": 0
+            },
+            {
+              "label": "Advance From Customers- Interc",
+              "amount": 0
+            },
+            {
+              "label": "Net Advance from Customers-VAT",
+              "amount": 330854
+            },
+            {
+              "label": "Gross Adv. from Customers-VAT",
+              "amount": -286780
+            },
+            {
+              "label": "Due To Subsidiaries - Opp",
+              "amount": 0
+            },
+            {
+              "label": "Due To Subsidiaries - Paper In",
+              "amount": 0
+            },
+            {
+              "label": "Due To Subsidiaries - Technica",
+              "amount": 0
+            },
+            {
+              "label": "Due To Subsidiaries - Tensile",
+              "amount": 0
+            },
+            {
+              "label": "Due To Subsidiaries - Educatio",
+              "amount": 0
+            },
+            {
+              "label": "Due To Subsidiaries - Bookstor",
+              "amount": 0
+            },
+            {
+              "label": "Due To Subsidiaries - Real Est",
+              "amount": -1164
+            },
+            {
+              "label": "Due To Subs - Folding Cartons",
+              "amount": -99006069
+            },
+            {
+              "label": "Due To Subs - Graphic Center",
+              "amount": -362896
+            },
+            {
+              "label": "Due To Subs-Flexible",
+              "amount": -24659740
+            },
+            {
+              "label": "Due To Subs-Packaging Technolo",
+              "amount": 0
+            },
+            {
+              "label": "Due To Subs-ABCn Digital Co",
+              "amount": -626218
+            },
+            {
+              "label": "Due To Joint Ventures - Refal",
+              "amount": 0
+            },
+            {
+              "label": "LC Refinance (SAMBA)",
+              "amount": 0
+            },
+            {
+              "label": "Foreign Currency Translation R",
+              "amount": 0
+            },
+            {
+              "label": "Subordinated Loan",
+              "amount": -36659092
+            },
+            {
+              "label": "Sales - Non Finished Goods",
+              "amount": -261627
+            },
+            {
+              "label": "Un Realized Gain On Trading In",
+              "amount": 0
+            },
+            {
+              "label": "Foreign Exchange Gain/(Loss)",
+              "amount": 194868
+            },
+            {
+              "label": "Rounding Diffrences",
+              "amount": 7
+            },
+            {
+              "label": "Payment Differences",
+              "amount": 13
+            },
+            {
+              "label": "Cogs Inventory Adjustments",
+              "amount": 6704
+            },
+            {
+              "label": "Cogs-Non Finished Goods",
+              "amount": 215926
+            },
+            {
+              "label": "Labour Cost Absorbtion",
+              "amount": 9956038
+            },
+            {
+              "label": "Machine Cost Absorbtion",
+              "amount": -9642631
+            },
+            {
+              "label": "Overhead Cost Absorbtion",
+              "amount": -10465374
+            },
+            {
+              "label": "Purchase Price Variance",
+              "amount": 10783750
+            },
+            {
+              "label": "Actual Issue (Packing)",
+              "amount": 728
+            },
+            {
+              "label": "Inv Trf/Retn Result Variance",
+              "amount": -4954428
+            },
+            {
+              "label": "Production Cost(Machine)",
+              "amount": 0
+            },
+            {
+              "label": "Charge From Maintenance",
+              "amount": 234560
+            },
+            {
+              "label": "Charge from Group Finance(ABC",
+              "amount": 750501
+            },
+            {
+              "label": "Charges From Group Top Managem",
+              "amount": 2956443
+            },
+            {
+              "label": "Charge from VP Paper and Board",
+              "amount": 366531
+            },
+            {
+              "label": "Charge from Talent Developmen",
+              "amount": 0
+            },
+            {
+              "label": "Charge from Group Purchasing",
+              "amount": 451859
+            },
+            {
+              "label": "Charge from Cen. Spareparts WH",
+              "amount": 488536
+            },
+            {
+              "label": "Charge from Custom Clearance",
+              "amount": 141579
+            },
+            {
+              "label": "Chargefrom Central Chemical WH",
+              "amount": 151603
+            },
+            {
+              "label": "Charge from Housing",
+              "amount": 0
+            },
+            {
+              "label": "Charge from Bus. Excellence",
+              "amount": 303047
+            },
+            {
+              "label": "Water Expenses",
+              "amount": 383444
+            },
+            {
+              "label": "Electricity Exp.",
+              "amount": 2044199
+            },
+            {
+              "label": "Mailing Expense",
+              "amount": 1070
+            },
+            {
+              "label": "Mobile Exp.",
+              "amount": 42963
+            },
+            {
+              "label": "Forklift Maint & Spares Exp",
+              "amount": 15540
+            },
+            {
+              "label": "Mach&Equip.S/Part Break.Manual",
+              "amount": 500
+            },
+            {
+              "label": "Stationery Exp Manual",
+              "amount": 2782
+            },
+            {
+              "label": "Car Truck & Sparepart (Manual)",
+              "amount": 19827
+            },
+            {
+              "label": "Mach&Equip.S/Parts Breaked",
+              "amount": 31614
+            },
+            {
+              "label": "Forklift Maint & Spares-Manual",
+              "amount": 50125
+            },
+            {
+              "label": "Certification Charges",
+              "amount": 48743
+            },
+            {
+              "label": "Attestation Fee (COC, Ministry",
+              "amount": 1657
+            },
+            {
+              "label": "Iso 9001-2000",
+              "amount": 0
+            },
+            {
+              "label": "Consultancy Charges",
+              "amount": 0
+            },
+            {
+              "label": "Subscription",
+              "amount": 0
+            },
+            {
+              "label": "Cleaning Expense",
+              "amount": 36972
+            },
+            {
+              "label": "Boufiah Expense",
+              "amount": -29460
+            },
+            {
+              "label": "Drinking Water  Exp",
+              "amount": 54594
+            },
+            {
+              "label": "Hotel Expenses",
+              "amount": 15886
+            },
+            {
+              "label": "Boufiah Expense (Integration)",
+              "amount": 6179
+            },
+            {
+              "label": "Cleaning Expense (Manual)",
+              "amount": 192706
+            },
+            {
+              "label": "Recruitment Expenses",
+              "amount": 1257
+            },
+            {
+              "label": "Fair Participation Exp.",
+              "amount": 7918
+            },
+            {
+              "label": "Guest Entertainment Exp.",
+              "amount": 1982
+            },
+            {
+              "label": "Stationery Exp.",
+              "amount": 39671
+            },
+            {
+              "label": "Membership & Subscription",
+              "amount": 1600
+            },
+            {
+              "label": "Training Material (OKA)",
+              "amount": 399
+            },
+            {
+              "label": "Safety Materials Exp.",
+              "amount": 4140
+            },
+            {
+              "label": "Safety Materials Exp. (Manual)",
+              "amount": 17066
+            },
+            {
+              "label": "Customs Clearance Exp.",
+              "amount": 362646
+            },
+            {
+              "label": "Demurrage Charges Exp.",
+              "amount": 0
+            },
+            {
+              "label": "Surcharge Pcs Project",
+              "amount": 170673
+            },
+            {
+              "label": "Business Development Exp",
+              "amount": 0
+            },
+            {
+              "label": "Tender  Fees",
+              "amount": 9610
+            },
+            {
+              "label": "Transportation Allowance Exp.",
+              "amount": 353286
+            },
+            {
+              "label": "Bonus Exp.",
+              "amount": 626522
+            },
+            {
+              "label": "Air Ticket Exp.",
+              "amount": 407101
+            },
+            {
+              "label": "Annual Vacation Exp.",
+              "amount": 556909
+            },
+            {
+              "label": "Visa & Iqama Exp.",
+              "amount": 1110430
+            },
+            {
+              "label": "Working Meals Exp.",
+              "amount": 40612
+            },
+            {
+              "label": "End Of Service Expenses",
+              "amount": 645302
+            },
+            {
+              "label": "Manpower Contract Exp.",
+              "amount": 2583094
+            },
+            {
+              "label": "Food Expenses",
+              "amount": 810713
+            },
+            {
+              "label": "Uniforms Exp.",
+              "amount": 33076
+            },
+            {
+              "label": "GOSI Expense-Non Saudi",
+              "amount": 145953
+            },
+            {
+              "label": "Conveyance Expenses",
+              "amount": 2831
+            },
+            {
+              "label": "Staff Welfare Expenses",
+              "amount": 29197
+            },
+            {
+              "label": "Deductions",
+              "amount": -4743
+            },
+            {
+              "label": "Uniforms Exp. (Manual)",
+              "amount": 6300
+            },
+            {
+              "label": "Int on Refinance Loans-SAMBA",
+              "amount": 0
+            },
+            {
+              "label": "Int on Refinance Loans-AlBilad",
+              "amount": 1025616
+            },
+            {
+              "label": "LC Charges",
+              "amount": 15969
+            },
+            {
+              "label": "LG Charges",
+              "amount": 26901
+            },
+            {
+              "label": "Facility Fees",
+              "amount": 747478
+            },
+            {
+              "label": "Zakat",
+              "amount": 3000000
+            },
+            {
+              "label": "Currency Profit/ Loss(Purchase",
+              "amount": 76953
+            },
+            {
+              "label": "Provision For Inventory Losses",
+              "amount": 0
+            },
+            {
+              "label": "Currency Difference",
+              "amount": 29741
+            }
+          ],
+          "total": 394837609
+        },
+        "Non-Current Assets": {
+          "items": [
+            {
+              "label": "Prepaid Property All Risks Exp",
+              "amount": 0
+            },
+            {
+              "label": "Interim Fixed Assets",
+              "amount": 0
+            },
+            {
+              "label": "Building",
+              "amount": 11866940
+            },
+            {
+              "label": "Plant & Machinery",
+              "amount": 162353490
+            },
+            {
+              "label": "Equipments",
+              "amount": 4586766
+            },
+            {
+              "label": "Furniture",
+              "amount": 397013
+            },
+            {
+              "label": "Fixture",
+              "amount": 91154
+            },
+            {
+              "label": "Vehicles",
+              "amount": 169300
+            },
+            {
+              "label": "Computer Hardware & Software",
+              "amount": 1500146
+            },
+            {
+              "label": "Accum. Dep - Equipments",
+              "amount": -4185240
+            },
+            {
+              "label": "Acc.Dep'n Furnitures",
+              "amount": -383853
+            },
+            {
+              "label": "Acc.Dep'n Fixtures",
+              "amount": -91548
+            },
+            {
+              "label": "Acc.Dep'n Vehicle",
+              "amount": -169297
+            },
+            {
+              "label": "Accumulated Deprn Tools",
+              "amount": -79425
+            },
+            {
+              "label": "Accumulated Deprn Mobile",
+              "amount": -10081
+            },
+            {
+              "label": "Project",
+              "amount": 0
+            },
+            {
+              "label": "Project",
+              "amount": 5777
+            },
+            {
+              "label": "Accrued Building Rent",
+              "amount": -60701
+            },
+            {
+              "label": "Vehicle Expense",
+              "amount": 100
+            },
+            {
+              "label": "Plant Exp.",
+              "amount": 2288313
+            },
+            {
+              "label": "Building Expense",
+              "amount": 101407
+            },
+            {
+              "label": "Car & Trucks Vehicle Exp.",
+              "amount": 4028
+            },
+            {
+              "label": "Plant (Mach&Equipt) Maint.Exp",
+              "amount": 1268270
+            },
+            {
+              "label": "Building & Office Exp (Manual)",
+              "amount": 26994
+            },
+            {
+              "label": "Hardware & Software Expense",
+              "amount": 70908
+            },
+            {
+              "label": "Car,Truck Plate & License",
+              "amount": 0
+            },
+            {
+              "label": "Property All Risks Exp.",
+              "amount": 803920
+            }
+          ],
+          "total": 180554381
+        },
+        "Current Liabilities": {
+          "items": [
+            {
+              "label": "Consignment Accrual - Po",
+              "amount": 588800
+            },
+            {
+              "label": "Accounts Payable - Local",
+              "amount": 22287761
+            },
+            {
+              "label": "Accounts Payable - Foreign",
+              "amount": 518011
+            },
+            {
+              "label": "Accounts Payable -Intercompany",
+              "amount": 4237166
+            },
+            {
+              "label": "Accrued Manpower Contract Exp.",
+              "amount": 15963
+            },
+            {
+              "label": "Accrued Food Expenses",
+              "amount": 178804
+            },
+            {
+              "label": "Accrued Air Ticket Exp.",
+              "amount": 517442
+            },
+            {
+              "label": "Accrued Annual Vacation Exp.",
+              "amount": 1129637
+            },
+            {
+              "label": "Accrued Visa & Iqama Exp.",
+              "amount": 38850
+            },
+            {
+              "label": "Accrued Gosi Expense",
+              "amount": 58509
+            },
+            {
+              "label": "Accrued Payroll",
+              "amount": 943416
+            },
+            {
+              "label": "Accrued Bonus",
+              "amount": 954144
+            },
+            {
+              "label": "Accrued Salary",
+              "amount": 0
+            },
+            {
+              "label": "Accrued Car Rent Exp.",
+              "amount": 0
+            },
+            {
+              "label": "Accrued Electricity Expenses",
+              "amount": 0
+            },
+            {
+              "label": "Accrued Gas Exp.",
+              "amount": 11628
+            },
+            {
+              "label": "Accrued Water Expense",
+              "amount": 29627
+            },
+            {
+              "label": "Acc Int Short Term Loan(SAMBA)",
+              "amount": 0
+            },
+            {
+              "label": "Int Payable - BLD",
+              "amount": 0
+            },
+            {
+              "label": "Accr Int Short Term Loan (Alin",
+              "amount": 0
+            },
+            {
+              "label": "Accr Interest Short Term Loan",
+              "amount": 586109
+            },
+            {
+              "label": "Accrued Expenses",
+              "amount": 3546433
+            },
+            {
+              "label": "Accrued Audit Fees",
+              "amount": 74000
+            },
+            {
+              "label": "Accrued Others",
+              "amount": 84780
+            },
+            {
+              "label": "Accrued Shipping Cost",
+              "amount": 0
+            },
+            {
+              "label": "Accrued Bonus- Others",
+              "amount": 0
+            },
+            {
+              "label": "Accrued Freight Cost",
+              "amount": 0
+            },
+            {
+              "label": "Value Added Tax-Payable",
+              "amount": -221
+            },
+            {
+              "label": "Accrued Value Added Tax",
+              "amount": 902184
+            },
+            {
+              "label": "Short Term Loan-SAMBA",
+              "amount": 0
+            },
+            {
+              "label": "Zakat Payable",
+              "amount": 3000000
+            },
+            {
+              "label": "Interest on Short Term Loans",
+              "amount": -1533246
+            }
+          ],
+          "total": 38169797
+        },
+        "Non-Current Liabilities": {
+          "items": [
+            {
+              "label": "Provision For Bad Debts-Others",
+              "amount": 978510
+            },
+            {
+              "label": "Slow Moving Item - Provision",
+              "amount": 1065866
+            },
+            {
+              "label": "Accr Int Long Term Loan (SHB)",
+              "amount": 0
+            },
+            {
+              "label": "Accr Int Long Term Loan (RYD)",
+              "amount": 0
+            },
+            {
+              "label": "Accr Interest Long Term Loan",
+              "amount": 0
+            },
+            {
+              "label": "Int on Long Term Loans-RYD",
+              "amount": -509886
+            },
+            {
+              "label": "Interest on Long Term Loans",
+              "amount": -423104
+            }
+          ],
+          "total": 1111386
+        },
+        "Equity": {
+          "items": [
+            {
+              "label": "Spare Parts",
+              "amount": -2579917
+            },
+            {
+              "label": "Share Capital",
+              "amount": 13000000
+            },
+            {
+              "label": "Retained Earnings",
+              "amount": 311267704
+            },
+            {
+              "label": "Inventory Revaluation",
+              "amount": 2606957
+            },
+            {
+              "label": "Inventory Revaluation-Lpm",
+              "amount": -1939954
+            }
+          ],
+          "total": 322354790
+        }
+      },
+      "total_assets": 575391990,
+      "total_liabilities": 39281183,
+      "total_equity": 322354790,
+      "total_liabilities_and_equity": 361635973,
+      "balance_check": 213756017
+    },
+    "income_statement": {
+      "sections": {
+        "Revenue": {
+          "items": [
+            {
+              "label": "Interim - Sales Revenues",
+              "amount": 0
+            },
+            {
+              "label": "Local Sales",
+              "amount": 7203226
+            },
+            {
+              "label": "Intercompany Sales",
+              "amount": 3884190
+            },
+            {
+              "label": "Government Sales",
+              "amount": 200459577
+            },
+            {
+              "label": "Sales Manual",
+              "amount": 0
+            },
+            {
+              "label": "Scrap Sales",
+              "amount": 139167
+            },
+            {
+              "label": "Gain/Loss Sales Of Fixed Asset",
+              "amount": 0
+            },
+            {
+              "label": "Other Income",
+              "amount": 41406
+            },
+            {
+              "label": "Samples Exp.",
+              "amount": -2400
+            },
+            {
+              "label": "Freight Expense for Sales",
+              "amount": 0
+            },
+            {
+              "label": "Freight Expenses Sales-Manual",
+              "amount": -3451818
+            }
+          ],
+          "total": 208273348
+        },
+        "Cost of Sales": {
+          "items": [
+            {
+              "label": "Interim - Cogs",
+              "amount": 0
+            },
+            {
+              "label": "Tools",
+              "amount": 87346
+            },
+            {
+              "label": "Cogs Direct Material",
+              "amount": 104827676
+            },
+            {
+              "label": "Cogs Direct Labour",
+              "amount": 14349832
+            },
+            {
+              "label": "Cogs Production Overheads",
+              "amount": 10319474
+            },
+            {
+              "label": "Cogs Machine Cost",
+              "amount": 9129855
+            },
+            {
+              "label": "Cogs - Project Surcharges",
+              "amount": 84060
+            },
+            {
+              "label": "Cogs - Indirect Material",
+              "amount": 4238977
+            },
+            {
+              "label": "COGS-Addition COGS Project",
+              "amount": 0
+            },
+            {
+              "label": "COGS Material (Variances)",
+              "amount": -248809
+            },
+            {
+              "label": "Cogs Direct Labour Variance",
+              "amount": -18614068
+            },
+            {
+              "label": "Cogs Prod Overheads Variance",
+              "amount": -539773
+            },
+            {
+              "label": "Cogs (Manual)",
+              "amount": 3094791
+            },
+            {
+              "label": "COGS Machine Cost Variance",
+              "amount": -351618
+            },
+            {
+              "label": "Cost of Scrap Sale",
+              "amount": -500
+            },
+            {
+              "label": "Cogs Project Surcharge",
+              "amount": -170673
+            }
+          ],
+          "total": 126206570
+        },
+        "Operating Expenses": {
+          "items": [
+            {
+              "label": "Prepaid Money Insurance Exp.",
+              "amount": 0
+            },
+            {
+              "label": "Prepaid Marine Insurance Exp.",
+              "amount": 0
+            },
+            {
+              "label": "Prepaid Vehicle Insurance Exp.",
+              "amount": 0
+            },
+            {
+              "label": "Prepaid Medical Insurance Exp.",
+              "amount": 118868
+            },
+            {
+              "label": "Advance To Employees(Loan)",
+              "amount": 185243
+            },
+            {
+              "label": "Advance To Employees(Others)",
+              "amount": 19583
+            },
+            {
+              "label": "Advance To Employees(Car)",
+              "amount": 0
+            },
+            {
+              "label": "Advance To Employees(Samsung)",
+              "amount": 436
+            },
+            {
+              "label": "Interim - Transit General",
+              "amount": 0
+            },
+            {
+              "label": "Accum. Depreciation Building",
+              "amount": -9050849
+            },
+            {
+              "label": "Accum. Depreciation Plant and",
+              "amount": -141317576
+            },
+            {
+              "label": "Accrued Telephone Expense",
+              "amount": -23608
+            },
+            {
+              "label": "Accrued Marine Insurance",
+              "amount": -104411
+            },
+            {
+              "label": "Salary Balances to be paid",
+              "amount": -435642
+            },
+            {
+              "label": "Employees Terminal Benefits",
+              "amount": -7455733
+            },
+            {
+              "label": "Employees Terminal Ben.-Actuar",
+              "amount": -75737
+            },
+            {
+              "label": "Charge From General Services",
+              "amount": 722405
+            },
+            {
+              "label": "Car Rent Exp.",
+              "amount": 10733
+            },
+            {
+              "label": "Truck Rent Exp.",
+              "amount": 1200
+            },
+            {
+              "label": "Forklift Rent Exp.",
+              "amount": 65248
+            },
+            {
+              "label": "Warehouse Rent Expense",
+              "amount": 967636
+            },
+            {
+              "label": "Office Land Rent Exp.",
+              "amount": 41660
+            },
+            {
+              "label": "Telephone Exp.",
+              "amount": 28860
+            },
+            {
+              "label": "Audit Fees",
+              "amount": 100000
+            },
+            {
+              "label": "Legal Fees",
+              "amount": 0
+            },
+            {
+              "label": "Vehicle Insurance",
+              "amount": 6210
+            },
+            {
+              "label": "Money Insurance Exp.",
+              "amount": 0
+            },
+            {
+              "label": "Marine Insurance Exp.",
+              "amount": 9999
+            },
+            {
+              "label": "Office Supplies Exp.",
+              "amount": 9984
+            },
+            {
+              "label": "Office Supplies Exp (Manual)",
+              "amount": 8237
+            },
+            {
+              "label": "Bad Debts W/Off",
+              "amount": 0
+            },
+            {
+              "label": "Travel Exp.",
+              "amount": 5115
+            },
+            {
+              "label": "Salaries Exp.",
+              "amount": 6238739
+            },
+            {
+              "label": "GOSI Expense -Saudis",
+              "amount": 207400
+            },
+            {
+              "label": "Other Employee Benefits",
+              "amount": 380
+            },
+            {
+              "label": "Gain/loss of employees? ter",
+              "amount": 75737
+            },
+            {
+              "label": "Depreciation Building",
+              "amount": 566274
+            },
+            {
+              "label": "Depreciation Plant & Machinery",
+              "amount": 10100553
+            },
+            {
+              "label": "Depreciation Furniture",
+              "amount": 1669
+            },
+            {
+              "label": "Depreciation Fixture",
+              "amount": 0
+            },
+            {
+              "label": "Depreciation Equipment",
+              "amount": 248615
+            },
+            {
+              "label": "Depreciation Computers",
+              "amount": 74717
+            },
+            {
+              "label": "Depreciation Tools",
+              "amount": 1583
+            },
+            {
+              "label": "Depreciation Mobile",
+              "amount": 0
+            }
+          ],
+          "total": -138646472
+        },
+        "Finance Costs": {
+          "items": [
+            {
+              "label": "Internet Expenses",
+              "amount": 1500
+            },
+            {
+              "label": "Other Finance Cost",
+              "amount": 120579
+            },
+            {
+              "label": "Bank Charges",
+              "amount": 75552
+            }
+          ],
+          "total": 197631
+        },
+        "Income Tax": {
+          "items": [
+            {
+              "label": "Gas Exp.",
+              "amount": 123762
+            },
+            {
+              "label": "Overtime Exp.",
+              "amount": 1586214
+            },
+            {
+              "label": "Medical Expenses",
+              "amount": 434033
+            }
+          ],
+          "total": 2144009
+        }
+      },
+      "revenue": 208273348,
+      "gross_profit": 82066778,
+      "ebit": 220713250,
+      "ebt": 220515619,
+      "net_income": 218371610
+    },
+    "cash_flow": {
+      "sections": {
+        "Operating Activities": {
+          "items": [
+            {
+              "label": "Charge From  It",
+              "amount": 663784
+            },
+            {
+              "label": "Charge From Hr",
+              "amount": 1039781
+            },
+            {
+              "label": "Charge from Security",
+              "amount": 268426
+            },
+            {
+              "label": "Charge from OKA",
+              "amount": 0
+            },
+            {
+              "label": "Charge From Saudization",
+              "amount": 1060895
+            }
+          ],
+          "total": 3032886
+        },
+        "Investing Activities": {
+          "items": [
+            {
+              "label": "Fixed Assets Disposal",
+              "amount": 0
+            },
+            {
+              "label": "Car Fuel Exp.",
+              "amount": 38962
+            }
+          ],
+          "total": 38962
+        }
+      },
+      "net_change_in_cash": 3071848
+    },
+    "equity_statement": {
+      "opening_equity": 103983180,
+      "net_income": 218371610,
+      "dividends": 0,
+      "other_movements": 0,
+      "closing_equity": 322354790
+    },
+    "kpis": {
+      "total_assets": 575391990,
+      "total_liabilities": 39281183,
+      "total_equity": 322354790,
+      "revenue": 208273348,
+      "gross_profit": 82066778,
+      "net_income": 218371610,
+      "net_cash_flow": 3071848,
+      "gross_margin": 39.4,
+      "net_margin": 104.85
+    },
+    "unmapped": [],
+    "entity_name": "Obeikan",
+    "period_end": "2025-12-31",
+    "currency": "SAR"
+  },
+  "notes": [
+    {
+      "id": "note_1",
+      "title": "1. Reporting Entity",
+      "content": "<p>Obeikan (the \"Company\") is incorporated and operates in its jurisdiction of incorporation. These financial statements cover the reporting period ended 2025-12-31.</p>"
+    },
+    {
+      "id": "note_2",
+      "title": "2. Basis of Preparation",
+      "content": "<p>These financial statements have been prepared in accordance with International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB). They are presented in SAR and rounded to the nearest dollar.</p><p>The financial statements have been prepared on the historical cost basis, except where otherwise indicated.</p>"
+    },
+    {
+      "id": "note_3",
+      "title": "3. Significant Accounting Policies",
+      "content": "<p><strong>Revenue Recognition:</strong> Revenue is recognised when control of goods or services is transferred to the customer at an amount that reflects the consideration to which the Company expects to be entitled.</p><p><strong>Property, Plant and Equipment:</strong> PPE is stated at cost less accumulated depreciation and impairment losses. Depreciation is calculated on a straight-line basis over the estimated useful lives of the assets.</p><p><strong>Inventories:</strong> Inventories are measured at the lower of cost and net realisable value using the weighted average cost formula.</p><p><strong>Financial Instruments:</strong> Financial assets and liabilities are recognised when the Company becomes party to the contractual provisions of the instrument.</p>"
+    },
+    {
+      "id": "note_4",
+      "title": "4. Revenue",
+      "content": "<p>Revenue for the period is analysed as follows:</p><table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse;width:100%\"><thead><tr><th>Description</th><th>Amount</th></tr></thead><tbody><tr><td>Interim - Sales Revenues</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Local Sales</td><td style=\"text-align:right\">SAR 7,203,226</td></tr><tr><td>Intercompany Sales</td><td style=\"text-align:right\">SAR 3,884,190</td></tr><tr><td>Government Sales</td><td style=\"text-align:right\">SAR 200,459,577</td></tr><tr><td>Sales Manual</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Scrap Sales</td><td style=\"text-align:right\">SAR 139,167</td></tr><tr><td>Gain/Loss Sales Of Fixed Asset</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Other Income</td><td style=\"text-align:right\">SAR 41,406</td></tr><tr><td>Samples Exp.</td><td style=\"text-align:right\">SAR -2,400</td></tr><tr><td>Freight Expense for Sales</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Freight Expenses Sales-Manual</td><td style=\"text-align:right\">SAR -3,451,818</td></tr><tr><td><strong>Total Revenue</strong></td><td style=\"text-align:right\"><strong>SAR 208,273,348</strong></td></tr></tbody></table>"
+    },
+    {
+      "id": "note_5",
+      "title": "5. Operating Expenses",
+      "content": "<table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse;width:100%\"><thead><tr><th>Expense Category</th><th>Amount</th></tr></thead><tbody><tr><td>Prepaid Money Insurance Exp.</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Prepaid Marine Insurance Exp.</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Prepaid Vehicle Insurance Exp.</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Prepaid Medical Insurance Exp.</td><td style=\"text-align:right\">SAR 118,868</td></tr><tr><td>Advance To Employees(Loan)</td><td style=\"text-align:right\">SAR 185,243</td></tr><tr><td>Advance To Employees(Others)</td><td style=\"text-align:right\">SAR 19,583</td></tr><tr><td>Advance To Employees(Car)</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Advance To Employees(Samsung)</td><td style=\"text-align:right\">SAR 436</td></tr><tr><td>Interim - Transit General</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Accum. Depreciation Building</td><td style=\"text-align:right\">SAR -9,050,849</td></tr><tr><td>Accum. Depreciation Plant and</td><td style=\"text-align:right\">SAR -141,317,576</td></tr><tr><td>Accrued Telephone Expense</td><td style=\"text-align:right\">SAR -23,608</td></tr><tr><td>Accrued Marine Insurance</td><td style=\"text-align:right\">SAR -104,411</td></tr><tr><td>Salary Balances to be paid</td><td style=\"text-align:right\">SAR -435,642</td></tr><tr><td>Employees Terminal Benefits</td><td style=\"text-align:right\">SAR -7,455,733</td></tr><tr><td>Employees Terminal Ben.-Actuar</td><td style=\"text-align:right\">SAR -75,737</td></tr><tr><td>Charge From General Services</td><td style=\"text-align:right\">SAR 722,405</td></tr><tr><td>Car Rent Exp.</td><td style=\"text-align:right\">SAR 10,733</td></tr><tr><td>Truck Rent Exp.</td><td style=\"text-align:right\">SAR 1,200</td></tr><tr><td>Forklift Rent Exp.</td><td style=\"text-align:right\">SAR 65,248</td></tr><tr><td>Warehouse Rent Expense</td><td style=\"text-align:right\">SAR 967,636</td></tr><tr><td>Office Land Rent Exp.</td><td style=\"text-align:right\">SAR 41,660</td></tr><tr><td>Telephone Exp.</td><td style=\"text-align:right\">SAR 28,860</td></tr><tr><td>Audit Fees</td><td style=\"text-align:right\">SAR 100,000</td></tr><tr><td>Legal Fees</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Vehicle Insurance</td><td style=\"text-align:right\">SAR 6,210</td></tr><tr><td>Money Insurance Exp.</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Marine Insurance Exp.</td><td style=\"text-align:right\">SAR 9,999</td></tr><tr><td>Office Supplies Exp.</td><td style=\"text-align:right\">SAR 9,984</td></tr><tr><td>Office Supplies Exp (Manual)</td><td style=\"text-align:right\">SAR 8,237</td></tr><tr><td>Bad Debts W/Off</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Travel Exp.</td><td style=\"text-align:right\">SAR 5,115</td></tr><tr><td>Salaries Exp.</td><td style=\"text-align:right\">SAR 6,238,739</td></tr><tr><td>GOSI Expense -Saudis</td><td style=\"text-align:right\">SAR 207,400</td></tr><tr><td>Other Employee Benefits</td><td style=\"text-align:right\">SAR 380</td></tr><tr><td>Gain/loss of employees? ter</td><td style=\"text-align:right\">SAR 75,737</td></tr><tr><td>Depreciation Building</td><td style=\"text-align:right\">SAR 566,274</td></tr><tr><td>Depreciation Plant & Machinery</td><td style=\"text-align:right\">SAR 10,100,553</td></tr><tr><td>Depreciation Furniture</td><td style=\"text-align:right\">SAR 1,669</td></tr><tr><td>Depreciation Fixture</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Depreciation Equipment</td><td style=\"text-align:right\">SAR 248,615</td></tr><tr><td>Depreciation Computers</td><td style=\"text-align:right\">SAR 74,717</td></tr><tr><td>Depreciation Tools</td><td style=\"text-align:right\">SAR 1,583</td></tr><tr><td>Depreciation Mobile</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td><strong>Total Operating Expenses</strong></td><td style=\"text-align:right\"><strong>SAR -138,646,472</strong></td></tr></tbody></table>"
+    },
+    {
+      "id": "note_6",
+      "title": "6. Property, Plant and Equipment",
+      "content": "<table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse;width:100%\"><thead><tr><th></th><th>Cost</th><th>Acc. Depreciation</th><th>Net Book Value</th></tr></thead><tbody><tr><td>PPE</td><td style=\"text-align:right\">SAR 167,115,519</td><td style=\"text-align:right\">(SAR 0)</td><td style=\"text-align:right\">SAR 167,115,519</td></tr></tbody></table>"
+    },
+    {
+      "id": "note_7",
+      "title": "7. Trade and Other Receivables",
+      "content": "<p>Trade receivables of <strong>SAR 116,126,458</strong> represent amounts due from customers in the ordinary course of business. The Company applies a simplified expected credit loss model in accordance with IFRS 9.</p>"
+    },
+    {
+      "id": "note_8",
+      "title": "8. Trade and Other Payables",
+      "content": "<p>Trade payables of <strong>SAR 30,042,717</strong> represent amounts due to suppliers in the ordinary course of business. The carrying amount approximates fair value.</p>"
+    },
+    {
+      "id": "note_9",
+      "title": "9. Borrowings",
+      "content": "<table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse;width:100%\"><thead><tr><th>Facility</th><th>Carrying Amount</th></tr></thead><tbody><tr><td>Short-term borrowings (current)</td><td style=\"text-align:right\">SAR 947,137</td></tr><tr><td>Long-term borrowings (non-current)</td><td style=\"text-align:right\">SAR 932,990</td></tr><tr><td><strong>Total</strong></td><td style=\"text-align:right\"><strong>SAR 1,880,127</strong></td></tr></tbody></table>"
+    },
+    {
+      "id": "note_10",
+      "title": "10. Capital and Reserves",
+      "content": "<p>Total equity as at 2025-12-31 amounts to <strong>SAR 322,354,790</strong>, comprising share capital, retained earnings and other reserves as detailed in the Statement of Changes in Equity.</p>"
+    },
+    {
+      "id": "note_11",
+      "title": "11. Contingent Liabilities and Commitments",
+      "content": "<p>The Company had no material contingent liabilities or capital commitments outstanding as at the reporting date, other than those already recognised in these financial statements.</p>"
+    },
+    {
+      "id": "note_12",
+      "title": "12. Related Party Transactions",
+      "content": "<p>Transactions between the Company and its related parties, if any, are conducted on terms equivalent to those that prevail in arm's length transactions. Details of any material related party transactions are disclosed in accordance with IAS 24.</p>"
+    },
+    {
+      "id": "note_13",
+      "title": "13. Events After the Reporting Period",
+      "content": "<p>The directors are not aware of any material events that have occurred after the reporting date that would require adjustment to or disclosure in these financial statements.</p>"
+    }
+  ],
+  "meta": {
+    "entity_name": "Obeikan",
+    "period_end": "2025-12-31",
+    "currency": "SAR"
+  }
+}

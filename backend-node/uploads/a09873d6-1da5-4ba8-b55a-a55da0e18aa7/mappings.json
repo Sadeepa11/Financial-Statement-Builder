@@ -1,0 +1,2730 @@
+[
+  {
+    "account_code": "",
+    "account_name": "1111102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1112103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1112112",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1112121",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1112216",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1121101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1121102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1121103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1121201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1121301",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1121401",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1122101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1122102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1122105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131301",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131303",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131306",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131501",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131503",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131602",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131606",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131607",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131611",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1131701",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132113",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132202",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132210",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1132211",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151108",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151109",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151110",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151111",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151113",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151114",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151118",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151124",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1151125",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1152101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1152106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1161101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1161103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1161104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1161401",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1161402",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1163101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1163110",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1163112",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1163121",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1163126",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1164101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1164123",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1166101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1168101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1168102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1168103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1168201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181108",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181109",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181111",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181112",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181113",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181115",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181124",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181148",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181169",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181177",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181185",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181188",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1181189",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1189999",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261111",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261112",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261202",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261203",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261204",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261205",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261206",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261207",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261211",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1261212",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1262101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "1262201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111111",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111113",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111115",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111117",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111118",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2111140",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121108",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121109",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121114",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121202",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121301",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121302",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121303",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121310",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121401",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121410",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121416",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121433",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121440",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121496",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121497",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121501",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121601",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121801",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121802",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121807",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121809",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2121822",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2122101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2122103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2122107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2122108",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2123102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2125101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2125102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141109",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141111",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141112",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141114",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141124",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2141125",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2142107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2151110",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2152110",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2171101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2231101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "2231102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "3111101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "3311101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "3511101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "3611102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4111101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4111301",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4111316",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4111401",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4111552",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4211301",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4211401",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4211402",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4211403",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4211501",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4211504",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "4211803",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111116",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111118",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111119",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5111143",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5112102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5112103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5112104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113108",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113124",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113135",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113143",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5113150",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5114101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5114115",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5115102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211108",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211113",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211116",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211117",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211119",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211121",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211122",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211123",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211124",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211125",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5211126",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5212105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5212106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5212107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5212109",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5212112",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5213101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5213102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5213201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5213301",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5213303",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5213304",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214203",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214206",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214211",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214214",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214218",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214219",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214224",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214225",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214226",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214234",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214235",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5214239",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5215102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5215103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5215104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5215201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5215202",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5215203",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5215205",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5215208",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5216101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5216102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5216104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5216105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217109",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217110",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217202",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5217205",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5218101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5218102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5218103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5218107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5218108",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5219101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5219103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221201",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221203",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221205",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221206",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221208",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221211",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221303",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5221305",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231105",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231108",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231109",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231110",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231111",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231112",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231113",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231114",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231115",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231118",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231121",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231122",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231123",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231125",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231126",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231139",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231147",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5231150",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241110",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241199",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241299",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241302",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241312",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241401",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241501",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241601",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241702",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5241805",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5251101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5251102",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5251103",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5251104",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5251106",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5251107",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5251111",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5251112",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5261101",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5311304",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5311308",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "",
+    "account_name": "5311309",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  }
+]

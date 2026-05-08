@@ -1,0 +1,27 @@
+Account Code,Account Name,Debit,Credit
+1001,Cash at Bank,125000,
+1002,Petty Cash,2500,
+1010,Accounts Receivable,380000,
+1020,Inventory,95000,
+1030,Prepaid Insurance,8000,
+1100,Property Plant and Equipment,500000,
+1101,Accumulated Depreciation,,120000
+1200,Goodwill,50000,
+2001,Accounts Payable,,145000
+2002,Accrued Expenses,,22000
+2003,Income Tax Payable,,18000
+2010,Bank Overdraft,,35000
+2100,Long Term Loan,,200000
+3001,Share Capital,,100000
+3002,Retained Earnings,,410000
+4001,Sales Revenue,,985000
+4002,Other Income,,15000
+5001,Cost of Goods Sold,620000,
+6001,Salaries and Wages,180000,
+6002,Rent Expense,36000,
+6003,Depreciation Expense,40000,
+6004,Marketing Expenses,18000,
+6005,Professional Fees,12000,
+6006,General and Administrative,24000,
+7001,Interest Expense,14500,
+8001,Income Tax Expense,45000,

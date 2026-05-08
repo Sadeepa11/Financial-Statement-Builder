@@ -1,0 +1,67 @@
+[
+  {
+    "id": "note_1",
+    "title": "1. Reporting Entity",
+    "content": "<p>Obeikan (the \"Company\") is incorporated and operates in its jurisdiction of incorporation. These financial statements cover the reporting period ended 2025-12-31.</p>"
+  },
+  {
+    "id": "note_2",
+    "title": "2. Basis of Preparation",
+    "content": "<p>These financial statements have been prepared in accordance with International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB). They are presented in SAR and rounded to the nearest dollar.</p><p>The financial statements have been prepared on the historical cost basis, except where otherwise indicated.</p>"
+  },
+  {
+    "id": "note_3",
+    "title": "3. Significant Accounting Policies",
+    "content": "<p><strong>Revenue Recognition:</strong> Revenue is recognised when control of goods or services is transferred to the customer at an amount that reflects the consideration to which the Company expects to be entitled.</p><p><strong>Property, Plant and Equipment:</strong> PPE is stated at cost less accumulated depreciation and impairment losses. Depreciation is calculated on a straight-line basis over the estimated useful lives of the assets.</p><p><strong>Inventories:</strong> Inventories are measured at the lower of cost and net realisable value using the weighted average cost formula.</p><p><strong>Financial Instruments:</strong> Financial assets and liabilities are recognised when the Company becomes party to the contractual provisions of the instrument.</p>"
+  },
+  {
+    "id": "note_4",
+    "title": "4. Revenue",
+    "content": "<p>Revenue for the period is analysed as follows:</p><table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse;width:100%\"><thead><tr><th>Description</th><th>Amount</th></tr></thead><tbody><tr><td>Interim - Sales Revenues</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Local Sales</td><td style=\"text-align:right\">SAR 7,203,226</td></tr><tr><td>Intercompany Sales</td><td style=\"text-align:right\">SAR 3,884,190</td></tr><tr><td>Government Sales</td><td style=\"text-align:right\">SAR 200,459,577</td></tr><tr><td>Sales Manual</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Scrap Sales</td><td style=\"text-align:right\">SAR 139,167</td></tr><tr><td>Gain/Loss Sales Of Fixed Asset</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Other Income</td><td style=\"text-align:right\">SAR 41,406</td></tr><tr><td>Samples Exp.</td><td style=\"text-align:right\">SAR -2,400</td></tr><tr><td>Freight Expense for Sales</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Freight Expenses Sales-Manual</td><td style=\"text-align:right\">SAR -3,451,818</td></tr><tr><td><strong>Total Revenue</strong></td><td style=\"text-align:right\"><strong>SAR 208,273,348</strong></td></tr></tbody></table>"
+  },
+  {
+    "id": "note_5",
+    "title": "5. Operating Expenses",
+    "content": "<table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse;width:100%\"><thead><tr><th>Expense Category</th><th>Amount</th></tr></thead><tbody><tr><td>Prepaid Money Insurance Exp.</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Prepaid Marine Insurance Exp.</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Prepaid Vehicle Insurance Exp.</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Prepaid Medical Insurance Exp.</td><td style=\"text-align:right\">SAR 118,868</td></tr><tr><td>Advance To Employees(Loan)</td><td style=\"text-align:right\">SAR 185,243</td></tr><tr><td>Advance To Employees(Others)</td><td style=\"text-align:right\">SAR 19,583</td></tr><tr><td>Advance To Employees(Car)</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Advance To Employees(Samsung)</td><td style=\"text-align:right\">SAR 436</td></tr><tr><td>Interim - Transit General</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Accum. Depreciation Building</td><td style=\"text-align:right\">SAR -9,050,849</td></tr><tr><td>Accum. Depreciation Plant and</td><td style=\"text-align:right\">SAR -141,317,576</td></tr><tr><td>Accrued Telephone Expense</td><td style=\"text-align:right\">SAR -23,608</td></tr><tr><td>Accrued Marine Insurance</td><td style=\"text-align:right\">SAR -104,411</td></tr><tr><td>Salary Balances to be paid</td><td style=\"text-align:right\">SAR -435,642</td></tr><tr><td>Employees Terminal Benefits</td><td style=\"text-align:right\">SAR -7,455,733</td></tr><tr><td>Employees Terminal Ben.-Actuar</td><td style=\"text-align:right\">SAR -75,737</td></tr><tr><td>Charge From General Services</td><td style=\"text-align:right\">SAR 722,405</td></tr><tr><td>Car Rent Exp.</td><td style=\"text-align:right\">SAR 10,733</td></tr><tr><td>Truck Rent Exp.</td><td style=\"text-align:right\">SAR 1,200</td></tr><tr><td>Forklift Rent Exp.</td><td style=\"text-align:right\">SAR 65,248</td></tr><tr><td>Warehouse Rent Expense</td><td style=\"text-align:right\">SAR 967,636</td></tr><tr><td>Office Land Rent Exp.</td><td style=\"text-align:right\">SAR 41,660</td></tr><tr><td>Telephone Exp.</td><td style=\"text-align:right\">SAR 28,860</td></tr><tr><td>Audit Fees</td><td style=\"text-align:right\">SAR 100,000</td></tr><tr><td>Legal Fees</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Vehicle Insurance</td><td style=\"text-align:right\">SAR 6,210</td></tr><tr><td>Money Insurance Exp.</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Marine Insurance Exp.</td><td style=\"text-align:right\">SAR 9,999</td></tr><tr><td>Office Supplies Exp.</td><td style=\"text-align:right\">SAR 9,984</td></tr><tr><td>Office Supplies Exp (Manual)</td><td style=\"text-align:right\">SAR 8,237</td></tr><tr><td>Bad Debts W/Off</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Travel Exp.</td><td style=\"text-align:right\">SAR 5,115</td></tr><tr><td>Salaries Exp.</td><td style=\"text-align:right\">SAR 6,238,739</td></tr><tr><td>GOSI Expense -Saudis</td><td style=\"text-align:right\">SAR 207,400</td></tr><tr><td>Other Employee Benefits</td><td style=\"text-align:right\">SAR 380</td></tr><tr><td>Gain/loss of employees? ter</td><td style=\"text-align:right\">SAR 75,737</td></tr><tr><td>Depreciation Building</td><td style=\"text-align:right\">SAR 566,274</td></tr><tr><td>Depreciation Plant & Machinery</td><td style=\"text-align:right\">SAR 10,100,553</td></tr><tr><td>Depreciation Furniture</td><td style=\"text-align:right\">SAR 1,669</td></tr><tr><td>Depreciation Fixture</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td>Depreciation Equipment</td><td style=\"text-align:right\">SAR 248,615</td></tr><tr><td>Depreciation Computers</td><td style=\"text-align:right\">SAR 74,717</td></tr><tr><td>Depreciation Tools</td><td style=\"text-align:right\">SAR 1,583</td></tr><tr><td>Depreciation Mobile</td><td style=\"text-align:right\">SAR 0</td></tr><tr><td><strong>Total Operating Expenses</strong></td><td style=\"text-align:right\"><strong>SAR -138,646,472</strong></td></tr></tbody></table>"
+  },
+  {
+    "id": "note_6",
+    "title": "6. Property, Plant and Equipment",
+    "content": "<table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse;width:100%\"><thead><tr><th></th><th>Cost</th><th>Acc. Depreciation</th><th>Net Book Value</th></tr></thead><tbody><tr><td>PPE</td><td style=\"text-align:right\">SAR 167,115,519</td><td style=\"text-align:right\">(SAR 0)</td><td style=\"text-align:right\">SAR 167,115,519</td></tr></tbody></table>"
+  },
+  {
+    "id": "note_7",
+    "title": "7. Trade and Other Receivables",
+    "content": "<p>Trade receivables of <strong>SAR 116,126,458</strong> represent amounts due from customers in the ordinary course of business. The Company applies a simplified expected credit loss model in accordance with IFRS 9.</p>"
+  },
+  {
+    "id": "note_8",
+    "title": "8. Trade and Other Payables",
+    "content": "<p>Trade payables of <strong>SAR 30,042,717</strong> represent amounts due to suppliers in the ordinary course of business. The carrying amount approximates fair value.</p>"
+  },
+  {
+    "id": "note_9",
+    "title": "9. Borrowings",
+    "content": "<table border=\"1\" cellpadding=\"4\" style=\"border-collapse:collapse;width:100%\"><thead><tr><th>Facility</th><th>Carrying Amount</th></tr></thead><tbody><tr><td>Short-term borrowings (current)</td><td style=\"text-align:right\">SAR 947,137</td></tr><tr><td>Long-term borrowings (non-current)</td><td style=\"text-align:right\">SAR 932,990</td></tr><tr><td><strong>Total</strong></td><td style=\"text-align:right\"><strong>SAR 1,880,127</strong></td></tr></tbody></table>"
+  },
+  {
+    "id": "note_10",
+    "title": "10. Capital and Reserves",
+    "content": "<p>Total equity as at 2025-12-31 amounts to <strong>SAR 322,354,790</strong>, comprising share capital, retained earnings and other reserves as detailed in the Statement of Changes in Equity.</p>"
+  },
+  {
+    "id": "note_11",
+    "title": "11. Contingent Liabilities and Commitments",
+    "content": "<p>The Company had no material contingent liabilities or capital commitments outstanding as at the reporting date, other than those already recognised in these financial statements.</p>"
+  },
+  {
+    "id": "note_12",
+    "title": "12. Related Party Transactions",
+    "content": "<p>Transactions between the Company and its related parties, if any, are conducted on terms equivalent to those that prevail in arm's length transactions. Details of any material related party transactions are disclosed in accordance with IAS 24.</p>"
+  },
+  {
+    "id": "note_13",
+    "title": "13. Events After the Reporting Period",
+    "content": "<p>The directors are not aware of any material events that have occurred after the reporting date that would require adjustment to or disclosure in these financial statements.</p>"
+  }
+]

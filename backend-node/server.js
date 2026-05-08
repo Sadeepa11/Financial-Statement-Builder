@@ -1,0 +1,41 @@
+const express = require('express');
+const cors    = require('cors');
+const path    = require('path');
+const fs      = require('fs');
+
+const uploadRouter     = require('./routes/upload');
+const mappingRouter    = require('./routes/mapping');
+const statementsRouter = require('./routes/statements');
+const notesRouter      = require('./routes/notes');
+const exportRouter     = require('./routes/export');
+
+const app  = express();
+const PORT = 8000;
+
+// Ensure uploads dir exists
+const UPLOADS_DIR = path.join(__dirname, 'uploads');
+if (!fs.existsSync(UPLOADS_DIR)) fs.mkdirSync(UPLOADS_DIR, { recursive: true });
+
+app.use(cors({ origin: '*' }));
+app.use(express.json({ limit: '50mb' }));
+app.use(express.urlencoded({ extended: true, limit: '50mb' }));
+
+app.get('/health', (req, res) => res.json({ status: 'ok', version: '1.0.0' }));
+
+app.use('/upload',     uploadRouter);
+app.use('/mapping',    mappingRouter);
+app.use('/statements', statementsRouter);
+app.use('/notes',      notesRouter);
+app.use('/export',     exportRouter);
+
+// Global error handler
+app.use((err, req, res, next) => {
+  console.error('[server error]', err);
+  res.status(500).json({ detail: err.message || 'Internal server error' });
+});
+
+app.listen(PORT, () => {
+  console.log(`\n  ✅  Financial Statement Generator — Node.js Backend`);
+  console.log(`  🚀  Running at http://localhost:${PORT}`);
+  console.log(`  📋  Health: http://localhost:${PORT}/health\n`);
+});

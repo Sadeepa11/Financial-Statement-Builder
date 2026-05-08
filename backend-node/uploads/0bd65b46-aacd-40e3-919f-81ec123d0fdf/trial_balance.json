@@ -1,0 +1,1723 @@
+{
+  "records": [
+    {
+      "account_code": "1111102",
+      "account_name": "Purchase Fund",
+      "balance": 0
+    },
+    {
+      "account_code": "1112103",
+      "account_name": "Riyad Bank SAR",
+      "balance": 0
+    },
+    {
+      "account_code": "1112112",
+      "account_name": "Bank AlBilad SAR",
+      "balance": 0
+    },
+    {
+      "account_code": "1112121",
+      "account_name": "AlInma Bank SAR",
+      "balance": 0
+    },
+    {
+      "account_code": "1112216",
+      "account_name": "ANP AlInma Bank",
+      "balance": 0
+    },
+    {
+      "account_code": "1121101",
+      "account_name": "Accounts Receivable Local",
+      "balance": 0
+    },
+    {
+      "account_code": "1121102",
+      "account_name": "Advance Receipts Local",
+      "balance": 0
+    },
+    {
+      "account_code": "1121103",
+      "account_name": "Unallocated Receipts Local",
+      "balance": 0
+    },
+    {
+      "account_code": "1121201",
+      "account_name": "Account Receivable Export",
+      "balance": 0
+    },
+    {
+      "account_code": "1121301",
+      "account_name": "Account Receivable Intercompan",
+      "balance": 0
+    },
+    {
+      "account_code": "1121401",
+      "account_name": "Account Receivable Government",
+      "balance": 0
+    },
+    {
+      "account_code": "1122101",
+      "account_name": "Accounts Receivable Others",
+      "balance": 0
+    },
+    {
+      "account_code": "1122102",
+      "account_name": "Provision For Bad Debts-Others",
+      "balance": 0
+    },
+    {
+      "account_code": "1122105",
+      "account_name": "Accounts Under Clearance",
+      "balance": 0
+    },
+    {
+      "account_code": "1131101",
+      "account_name": "Prepaid Property All Risks Exp",
+      "balance": 0
+    },
+    {
+      "account_code": "1131103",
+      "account_name": "Prepaid Money Insurance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "1131104",
+      "account_name": "Prepaid Marine Insurance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "1131105",
+      "account_name": "Prepaid Vehicle Insurance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "1131106",
+      "account_name": "Prepaid Medical Insurance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "1131201",
+      "account_name": "Prepaid Housing Allowance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "1131301",
+      "account_name": "Prepaid Warehouse Rent Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "1131303",
+      "account_name": "Prepaid Factory Buillding Rent",
+      "balance": 0
+    },
+    {
+      "account_code": "1131306",
+      "account_name": "Prepaid Land Rent",
+      "balance": 0
+    },
+    {
+      "account_code": "1131501",
+      "account_name": "Prepaid Mempershep Fee",
+      "balance": 0
+    },
+    {
+      "account_code": "1131503",
+      "account_name": "Prepaid Legal Fee",
+      "balance": 0
+    },
+    {
+      "account_code": "1131602",
+      "account_name": "Custom Duty Refundable",
+      "balance": 0
+    },
+    {
+      "account_code": "1131606",
+      "account_name": "Prepaid Others",
+      "balance": 0
+    },
+    {
+      "account_code": "1131607",
+      "account_name": "Prepaid Saudization",
+      "balance": 0
+    },
+    {
+      "account_code": "1131611",
+      "account_name": "LG Margin Deposit",
+      "balance": 0
+    },
+    {
+      "account_code": "1131701",
+      "account_name": "Prepaid Interest",
+      "balance": 0
+    },
+    {
+      "account_code": "1132101",
+      "account_name": "Advance To Employees(Loan)",
+      "balance": 0
+    },
+    {
+      "account_code": "1132102",
+      "account_name": "Advance To Employees(Others)",
+      "balance": 0
+    },
+    {
+      "account_code": "1132103",
+      "account_name": "Advance To Employees(Car)",
+      "balance": 0
+    },
+    {
+      "account_code": "1132104",
+      "account_name": "Advance To Employees(Samsung)",
+      "balance": 0
+    },
+    {
+      "account_code": "1132113",
+      "account_name": "Advance Visa Charges Deposits",
+      "balance": 0
+    },
+    {
+      "account_code": "1132201",
+      "account_name": "Advance To Suppliers-Domestic",
+      "balance": 0
+    },
+    {
+      "account_code": "1132202",
+      "account_name": "Advance To Suppliers-Foreign",
+      "balance": 0
+    },
+    {
+      "account_code": "1132210",
+      "account_name": "Net Advance to Suppliers-VAT",
+      "balance": 0
+    },
+    {
+      "account_code": "1132211",
+      "account_name": "Gross Advance to Suppliers-VAT",
+      "balance": 0
+    },
+    {
+      "account_code": "1151101",
+      "account_name": "Cur Acnt-ABC",
+      "balance": 0
+    },
+    {
+      "account_code": "1151102",
+      "account_name": "Cur Acnt-OPP",
+      "balance": 0
+    },
+    {
+      "account_code": "1151103",
+      "account_name": "Cur Acnt-Commercial Printing",
+      "balance": 0
+    },
+    {
+      "account_code": "1151104",
+      "account_name": "Cur Acnt-Folding Carton (Packa",
+      "balance": 0
+    },
+    {
+      "account_code": "1151105",
+      "account_name": "Cur Acnt-Graphic Center (OGC)",
+      "balance": 0
+    },
+    {
+      "account_code": "1151107",
+      "account_name": "Cur Acnt-Flexible",
+      "balance": 0
+    },
+    {
+      "account_code": "1151108",
+      "account_name": "Cur Acnt-Paper Industries (OPI",
+      "balance": 0
+    },
+    {
+      "account_code": "1151109",
+      "account_name": "Cur Acnt-Technical Fabrics (OT",
+      "balance": 0
+    },
+    {
+      "account_code": "1151110",
+      "account_name": "Cur Acnt-Tensile Structures (O",
+      "balance": 0
+    },
+    {
+      "account_code": "1151111",
+      "account_name": "Cur Acnt-Education (ORD)",
+      "balance": 0
+    },
+    {
+      "account_code": "1151113",
+      "account_name": "Cur Acnt-Refal Environment",
+      "balance": 0
+    },
+    {
+      "account_code": "1151114",
+      "account_name": "Cur Acnt-Rigid Plastic",
+      "balance": 0
+    },
+    {
+      "account_code": "1151118",
+      "account_name": "Cur Acnt-Real Estate",
+      "balance": 0
+    },
+    {
+      "account_code": "1151124",
+      "account_name": "Cur Acnt-ABCn Packaging Tec",
+      "balance": 0
+    },
+    {
+      "account_code": "1151125",
+      "account_name": "Cur Acnt-ABCn Digital Compa",
+      "balance": 0
+    },
+    {
+      "account_code": "1152101",
+      "account_name": "Cur Acnt-Elopak",
+      "balance": 0
+    },
+    {
+      "account_code": "1152106",
+      "account_name": "Cur Acnt-Refal Binding",
+      "balance": 0
+    },
+    {
+      "account_code": "1161101",
+      "account_name": "Raw Materials - Main",
+      "balance": 0
+    },
+    {
+      "account_code": "1161103",
+      "account_name": "Inventory - Rm Ink",
+      "balance": 0
+    },
+    {
+      "account_code": "1161104",
+      "account_name": "Inventory - Rm Prepress",
+      "balance": 0
+    },
+    {
+      "account_code": "1161401",
+      "account_name": "Consignment Ink Inventory",
+      "balance": 0
+    },
+    {
+      "account_code": "1161402",
+      "account_name": "Consignment Accrual - Po",
+      "balance": 0
+    },
+    {
+      "account_code": "1163101",
+      "account_name": "Work In Progress",
+      "balance": 0
+    },
+    {
+      "account_code": "1163110",
+      "account_name": "Wip - Project (Pcs)",
+      "balance": 0
+    },
+    {
+      "account_code": "1163112",
+      "account_name": "Work In Progres -Opening",
+      "balance": 0
+    },
+    {
+      "account_code": "1163121",
+      "account_name": "Stock Preparation Buffer Stock",
+      "balance": 0
+    },
+    {
+      "account_code": "1163126",
+      "account_name": "Work In Progress (Integration)",
+      "balance": 0
+    },
+    {
+      "account_code": "1164101",
+      "account_name": "Finished Goods",
+      "balance": 0
+    },
+    {
+      "account_code": "1164123",
+      "account_name": "Scrap Inventory",
+      "balance": 0
+    },
+    {
+      "account_code": "1166101",
+      "account_name": "Stationery",
+      "balance": 0
+    },
+    {
+      "account_code": "1168101",
+      "account_name": "Spare Parts",
+      "balance": 0
+    },
+    {
+      "account_code": "1168102",
+      "account_name": "Auto Shop",
+      "balance": 0
+    },
+    {
+      "account_code": "1168103",
+      "account_name": "Slow Moving Item - Provision",
+      "balance": 0
+    },
+    {
+      "account_code": "1168201",
+      "account_name": "Consumables",
+      "balance": 0
+    },
+    {
+      "account_code": "1181107",
+      "account_name": "Interim Fixed Assets",
+      "balance": 0
+    },
+    {
+      "account_code": "1181108",
+      "account_name": "Interim - Transit General",
+      "balance": 0
+    },
+    {
+      "account_code": "1181109",
+      "account_name": "Interim - Variance",
+      "balance": 0
+    },
+    {
+      "account_code": "1181111",
+      "account_name": "Interim - Sales Revenues",
+      "balance": 0
+    },
+    {
+      "account_code": "1181112",
+      "account_name": "Interim - Cogs",
+      "balance": 0
+    },
+    {
+      "account_code": "1181113",
+      "account_name": "Inventory Interim Opening Bala",
+      "balance": 0
+    },
+    {
+      "account_code": "1181115",
+      "account_name": "Fixed Assets Disposal",
+      "balance": 0
+    },
+    {
+      "account_code": "1181124",
+      "account_name": "Interm Cost Serv/Maint-Manual",
+      "balance": 0
+    },
+    {
+      "account_code": "1181148",
+      "account_name": "Opening Balance (Inventory)",
+      "balance": 0
+    },
+    {
+      "account_code": "1181169",
+      "account_name": "Interim - Transit Consignment",
+      "balance": 0
+    },
+    {
+      "account_code": "1181177",
+      "account_name": "Interim Cost To Be Received",
+      "balance": 0
+    },
+    {
+      "account_code": "1181185",
+      "account_name": "Interim Intercompany Transacti",
+      "balance": 0
+    },
+    {
+      "account_code": "1181188",
+      "account_name": "Value Added Tax-Output",
+      "balance": 0
+    },
+    {
+      "account_code": "1181189",
+      "account_name": "Value Added Tax-Input",
+      "balance": 0
+    },
+    {
+      "account_code": "1189999",
+      "account_name": "Interim A/C-Interco",
+      "balance": 0
+    },
+    {
+      "account_code": "1261101",
+      "account_name": "Building",
+      "balance": 0
+    },
+    {
+      "account_code": "1261102",
+      "account_name": "Plant & Machinery",
+      "balance": 0
+    },
+    {
+      "account_code": "1261103",
+      "account_name": "Equipments",
+      "balance": 0
+    },
+    {
+      "account_code": "1261104",
+      "account_name": "Furniture",
+      "balance": 0
+    },
+    {
+      "account_code": "1261105",
+      "account_name": "Fixture",
+      "balance": 0
+    },
+    {
+      "account_code": "1261106",
+      "account_name": "Vehicles",
+      "balance": 0
+    },
+    {
+      "account_code": "1261107",
+      "account_name": "Computer Hardware & Software",
+      "balance": 0
+    },
+    {
+      "account_code": "1261111",
+      "account_name": "Tools",
+      "balance": 0
+    },
+    {
+      "account_code": "1261112",
+      "account_name": "Mobile",
+      "balance": 0
+    },
+    {
+      "account_code": "1261201",
+      "account_name": "Accum. Depreciation Building",
+      "balance": 0
+    },
+    {
+      "account_code": "1261202",
+      "account_name": "Accum. Depreciation Plant and",
+      "balance": 0
+    },
+    {
+      "account_code": "1261203",
+      "account_name": "Accum. Dep - Equipments",
+      "balance": 0
+    },
+    {
+      "account_code": "1261204",
+      "account_name": "Acc.Dep'n Furnitures",
+      "balance": 0
+    },
+    {
+      "account_code": "1261205",
+      "account_name": "Acc.Dep'n Fixtures",
+      "balance": 0
+    },
+    {
+      "account_code": "1261206",
+      "account_name": "Acc.Dep'n Vehicle",
+      "balance": 0
+    },
+    {
+      "account_code": "1261207",
+      "account_name": "Acc.Dep'n Computers",
+      "balance": 0
+    },
+    {
+      "account_code": "1261211",
+      "account_name": "Accumulated Deprn Tools",
+      "balance": 0
+    },
+    {
+      "account_code": "1261212",
+      "account_name": "Accumulated Deprn Mobile",
+      "balance": 0
+    },
+    {
+      "account_code": "1262101",
+      "account_name": "Project",
+      "balance": 0
+    },
+    {
+      "account_code": "1262201",
+      "account_name": "Project",
+      "balance": 0
+    },
+    {
+      "account_code": "2111101",
+      "account_name": "Accounts Payable - Local",
+      "balance": 0
+    },
+    {
+      "account_code": "2111102",
+      "account_name": "Accounts Payable - Foreign",
+      "balance": 0
+    },
+    {
+      "account_code": "2111103",
+      "account_name": "Accounts Payable -Intercompany",
+      "balance": 0
+    },
+    {
+      "account_code": "2111105",
+      "account_name": "Un-Allocated Payments(Local)",
+      "balance": 0
+    },
+    {
+      "account_code": "2111106",
+      "account_name": "Un-Allocated Payments(Export)",
+      "balance": 0
+    },
+    {
+      "account_code": "2111107",
+      "account_name": "Un-Allocated Payments(Interco)",
+      "balance": 0
+    },
+    {
+      "account_code": "2111111",
+      "account_name": "Invoice To Be Received",
+      "balance": 0
+    },
+    {
+      "account_code": "2111113",
+      "account_name": "Invoice To Be Recieved(Manual)",
+      "balance": 0
+    },
+    {
+      "account_code": "2111115",
+      "account_name": "Anticipated Payments (Import)",
+      "balance": 0
+    },
+    {
+      "account_code": "2111117",
+      "account_name": "Registered Invoices (Local)",
+      "balance": 0
+    },
+    {
+      "account_code": "2111118",
+      "account_name": "Registered Invoices (Import)",
+      "balance": 0
+    },
+    {
+      "account_code": "2111140",
+      "account_name": "Anticipated Payments (Local)",
+      "balance": 0
+    },
+    {
+      "account_code": "2121101",
+      "account_name": "Accrued Manpower Contract Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "2121102",
+      "account_name": "Accrued Food Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "2121104",
+      "account_name": "Accrued Air Ticket Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "2121105",
+      "account_name": "Accrued Annual Vacation Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "2121106",
+      "account_name": "Accrued Visa & Iqama Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "2121107",
+      "account_name": "Accrued Gosi Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "2121108",
+      "account_name": "Accrued Payroll",
+      "balance": 0
+    },
+    {
+      "account_code": "2121109",
+      "account_name": "Accrued Bonus",
+      "balance": 0
+    },
+    {
+      "account_code": "2121114",
+      "account_name": "Accrued Salary",
+      "balance": 0
+    },
+    {
+      "account_code": "2121201",
+      "account_name": "Accrued Car Rent Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "2121202",
+      "account_name": "Accrued Building Rent",
+      "balance": 0
+    },
+    {
+      "account_code": "2121301",
+      "account_name": "Accrued Electricity Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "2121302",
+      "account_name": "Accrued Telephone Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "2121303",
+      "account_name": "Accrued Gas Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "2121310",
+      "account_name": "Accrued Water Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "2121401",
+      "account_name": "Accr Int Long Term Loan (SHB)",
+      "balance": 0
+    },
+    {
+      "account_code": "2121410",
+      "account_name": "Accr Int Long Term Loan (RYD)",
+      "balance": 0
+    },
+    {
+      "account_code": "2121416",
+      "account_name": "Acc Int Short Term Loan(SAMBA)",
+      "balance": 0
+    },
+    {
+      "account_code": "2121433",
+      "account_name": "Int Payable - BLD",
+      "balance": 0
+    },
+    {
+      "account_code": "2121440",
+      "account_name": "Accr Int Short Term Loan (Alin",
+      "balance": 0
+    },
+    {
+      "account_code": "2121496",
+      "account_name": "Accr Interest Long Term Loan",
+      "balance": 0
+    },
+    {
+      "account_code": "2121497",
+      "account_name": "Accr Interest Short Term Loan",
+      "balance": 0
+    },
+    {
+      "account_code": "2121501",
+      "account_name": "Accrued Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "2121601",
+      "account_name": "Accrued Audit Fees",
+      "balance": 0
+    },
+    {
+      "account_code": "2121801",
+      "account_name": "Accrued Others",
+      "balance": 0
+    },
+    {
+      "account_code": "2121802",
+      "account_name": "Accrued Shipping Cost",
+      "balance": 0
+    },
+    {
+      "account_code": "2121807",
+      "account_name": "Accrued Bonus- Others",
+      "balance": 0
+    },
+    {
+      "account_code": "2121809",
+      "account_name": "Accrued Freight Cost",
+      "balance": 0
+    },
+    {
+      "account_code": "2121822",
+      "account_name": "Accrued Marine Insurance",
+      "balance": 0
+    },
+    {
+      "account_code": "2122101",
+      "account_name": "Advance From Customers- Local",
+      "balance": 0
+    },
+    {
+      "account_code": "2122103",
+      "account_name": "Advance From Customers- Interc",
+      "balance": 0
+    },
+    {
+      "account_code": "2122107",
+      "account_name": "Net Advance from Customers-VAT",
+      "balance": 0
+    },
+    {
+      "account_code": "2122108",
+      "account_name": "Gross Adv. from Customers-VAT",
+      "balance": 0
+    },
+    {
+      "account_code": "2123102",
+      "account_name": "Salary Balances to be paid",
+      "balance": 0
+    },
+    {
+      "account_code": "2125101",
+      "account_name": "Value Added Tax-Payable",
+      "balance": 0
+    },
+    {
+      "account_code": "2125102",
+      "account_name": "Accrued Value Added Tax",
+      "balance": 0
+    },
+    {
+      "account_code": "2141102",
+      "account_name": "Due To Subsidiaries - Opp",
+      "balance": 0
+    },
+    {
+      "account_code": "2141103",
+      "account_name": "Due To Subsidiaries - Paper In",
+      "balance": 0
+    },
+    {
+      "account_code": "2141104",
+      "account_name": "Due To Subsidiaries - Technica",
+      "balance": 0
+    },
+    {
+      "account_code": "2141105",
+      "account_name": "Due To Subsidiaries - Tensile",
+      "balance": 0
+    },
+    {
+      "account_code": "2141106",
+      "account_name": "Due To Subsidiaries - Educatio",
+      "balance": 0
+    },
+    {
+      "account_code": "2141107",
+      "account_name": "Due To Subsidiaries - Bookstor",
+      "balance": 0
+    },
+    {
+      "account_code": "2141109",
+      "account_name": "Due To Subsidiaries - Real Est",
+      "balance": 0
+    },
+    {
+      "account_code": "2141111",
+      "account_name": "Due To Subs - Folding Cartons",
+      "balance": 0
+    },
+    {
+      "account_code": "2141112",
+      "account_name": "Due To Subs - Graphic Center",
+      "balance": 0
+    },
+    {
+      "account_code": "2141114",
+      "account_name": "Due To Subs-Flexible",
+      "balance": 0
+    },
+    {
+      "account_code": "2141124",
+      "account_name": "Due To Subs-Packaging Technolo",
+      "balance": 0
+    },
+    {
+      "account_code": "2141125",
+      "account_name": "Due To Subs-ABCn Digital Co",
+      "balance": 0
+    },
+    {
+      "account_code": "2142107",
+      "account_name": "Due To Joint Ventures - Refal",
+      "balance": 0
+    },
+    {
+      "account_code": "2151110",
+      "account_name": "LC Refinance (SAMBA)",
+      "balance": 0
+    },
+    {
+      "account_code": "2152110",
+      "account_name": "Short Term Loan-SAMBA",
+      "balance": 0
+    },
+    {
+      "account_code": "2171101",
+      "account_name": "Zakat Payable",
+      "balance": 0
+    },
+    {
+      "account_code": "2231101",
+      "account_name": "Employees Terminal Benefits",
+      "balance": 0
+    },
+    {
+      "account_code": "2231102",
+      "account_name": "Employees Terminal Ben.-Actuar",
+      "balance": 0
+    },
+    {
+      "account_code": "3111101",
+      "account_name": "Share Capital",
+      "balance": 0
+    },
+    {
+      "account_code": "3311101",
+      "account_name": "Retained Earnings",
+      "balance": 0
+    },
+    {
+      "account_code": "3511101",
+      "account_name": "Foreign Currency Translation R",
+      "balance": 0
+    },
+    {
+      "account_code": "3611102",
+      "account_name": "Subordinated Loan",
+      "balance": 0
+    },
+    {
+      "account_code": "4111101",
+      "account_name": "Local Sales",
+      "balance": 0
+    },
+    {
+      "account_code": "4111301",
+      "account_name": "Intercompany Sales",
+      "balance": 0
+    },
+    {
+      "account_code": "4111316",
+      "account_name": "Sales - Non Finished Goods",
+      "balance": 0
+    },
+    {
+      "account_code": "4111401",
+      "account_name": "Government Sales",
+      "balance": 0
+    },
+    {
+      "account_code": "4111552",
+      "account_name": "Sales Manual",
+      "balance": 0
+    },
+    {
+      "account_code": "4211301",
+      "account_name": "Un Realized Gain On Trading In",
+      "balance": 0
+    },
+    {
+      "account_code": "4211401",
+      "account_name": "Foreign Exchange Gain/(Loss)",
+      "balance": 0
+    },
+    {
+      "account_code": "4211402",
+      "account_name": "Rounding Diffrences",
+      "balance": 0
+    },
+    {
+      "account_code": "4211403",
+      "account_name": "Payment Differences",
+      "balance": 0
+    },
+    {
+      "account_code": "4211501",
+      "account_name": "Scrap Sales",
+      "balance": 0
+    },
+    {
+      "account_code": "4211504",
+      "account_name": "Gain/Loss Sales Of Fixed Asset",
+      "balance": 0
+    },
+    {
+      "account_code": "4211803",
+      "account_name": "Other Income",
+      "balance": 0
+    },
+    {
+      "account_code": "5111101",
+      "account_name": "Cogs Direct Material",
+      "balance": 0
+    },
+    {
+      "account_code": "5111102",
+      "account_name": "Cogs Direct Labour",
+      "balance": 0
+    },
+    {
+      "account_code": "5111103",
+      "account_name": "Cogs Production Overheads",
+      "balance": 0
+    },
+    {
+      "account_code": "5111104",
+      "account_name": "Cogs Machine Cost",
+      "balance": 0
+    },
+    {
+      "account_code": "5111105",
+      "account_name": "Cogs Inventory Adjustments",
+      "balance": 0
+    },
+    {
+      "account_code": "5111116",
+      "account_name": "Cogs-Non Finished Goods",
+      "balance": 0
+    },
+    {
+      "account_code": "5111118",
+      "account_name": "Cogs - Project Surcharges",
+      "balance": 0
+    },
+    {
+      "account_code": "5111119",
+      "account_name": "Cogs - Indirect Material",
+      "balance": 0
+    },
+    {
+      "account_code": "5111143",
+      "account_name": "COGS-Addition COGS Project",
+      "balance": 0
+    },
+    {
+      "account_code": "5112102",
+      "account_name": "Labour Cost Absorbtion",
+      "balance": 0
+    },
+    {
+      "account_code": "5112103",
+      "account_name": "Machine Cost Absorbtion",
+      "balance": 0
+    },
+    {
+      "account_code": "5112104",
+      "account_name": "Overhead Cost Absorbtion",
+      "balance": 0
+    },
+    {
+      "account_code": "5113101",
+      "account_name": "COGS Material (Variances)",
+      "balance": 0
+    },
+    {
+      "account_code": "5113102",
+      "account_name": "Cogs Direct Labour Variance",
+      "balance": 0
+    },
+    {
+      "account_code": "5113103",
+      "account_name": "Cogs Prod Overheads Variance",
+      "balance": 0
+    },
+    {
+      "account_code": "5113105",
+      "account_name": "Purchase Price Variance",
+      "balance": 0
+    },
+    {
+      "account_code": "5113107",
+      "account_name": "Actual Issue (Packing)",
+      "balance": 0
+    },
+    {
+      "account_code": "5113108",
+      "account_name": "Cogs (Manual)",
+      "balance": 0
+    },
+    {
+      "account_code": "5113124",
+      "account_name": "Inv Trf/Retn Result Variance",
+      "balance": 0
+    },
+    {
+      "account_code": "5113135",
+      "account_name": "COGS Machine Cost Variance",
+      "balance": 0
+    },
+    {
+      "account_code": "5113143",
+      "account_name": "Cost of Scrap Sale",
+      "balance": 0
+    },
+    {
+      "account_code": "5113150",
+      "account_name": "Cogs Project Surcharge",
+      "balance": 0
+    },
+    {
+      "account_code": "5114101",
+      "account_name": "Inventory Revaluation",
+      "balance": 0
+    },
+    {
+      "account_code": "5114115",
+      "account_name": "Inventory Revaluation-Lpm",
+      "balance": 0
+    },
+    {
+      "account_code": "5115102",
+      "account_name": "Production Cost(Machine)",
+      "balance": 0
+    },
+    {
+      "account_code": "5211101",
+      "account_name": "Charge From  It",
+      "balance": 0
+    },
+    {
+      "account_code": "5211102",
+      "account_name": "Charge From Hr",
+      "balance": 0
+    },
+    {
+      "account_code": "5211103",
+      "account_name": "Charge From General Services",
+      "balance": 0
+    },
+    {
+      "account_code": "5211104",
+      "account_name": "Charge From Maintenance",
+      "balance": 0
+    },
+    {
+      "account_code": "5211106",
+      "account_name": "Charge from Group Finance(ABC",
+      "balance": 0
+    },
+    {
+      "account_code": "5211107",
+      "account_name": "Charges From Group Top Managem",
+      "balance": 0
+    },
+    {
+      "account_code": "5211108",
+      "account_name": "Charge from Security",
+      "balance": 0
+    },
+    {
+      "account_code": "5211113",
+      "account_name": "Charge from VP Paper and Board",
+      "balance": 0
+    },
+    {
+      "account_code": "5211116",
+      "account_name": "Charge from OKA",
+      "balance": 0
+    },
+    {
+      "account_code": "5211117",
+      "account_name": "Charge from Talent Developmen",
+      "balance": 0
+    },
+    {
+      "account_code": "5211119",
+      "account_name": "Charge From Saudization",
+      "balance": 0
+    },
+    {
+      "account_code": "5211121",
+      "account_name": "Charge from Group Purchasing",
+      "balance": 0
+    },
+    {
+      "account_code": "5211122",
+      "account_name": "Charge from Cen. Spareparts WH",
+      "balance": 0
+    },
+    {
+      "account_code": "5211123",
+      "account_name": "Charge from Custom Clearance",
+      "balance": 0
+    },
+    {
+      "account_code": "5211124",
+      "account_name": "Chargefrom Central Chemical WH",
+      "balance": 0
+    },
+    {
+      "account_code": "5211125",
+      "account_name": "Charge from Housing",
+      "balance": 0
+    },
+    {
+      "account_code": "5211126",
+      "account_name": "Charge from Bus. Excellence",
+      "balance": 0
+    },
+    {
+      "account_code": "5212105",
+      "account_name": "Car Rent Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5212106",
+      "account_name": "Truck Rent Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5212107",
+      "account_name": "Forklift Rent Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5212109",
+      "account_name": "Warehouse Rent Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "5212112",
+      "account_name": "Office Land Rent Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5213101",
+      "account_name": "Water Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5213102",
+      "account_name": "Electricity Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5213201",
+      "account_name": "Mailing Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "5213301",
+      "account_name": "Telephone Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5213303",
+      "account_name": "Mobile Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5213304",
+      "account_name": "Internet Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5214101",
+      "account_name": "Car Fuel Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5214102",
+      "account_name": "Gas Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5214201",
+      "account_name": "Vehicle Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "5214203",
+      "account_name": "Plant Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5214206",
+      "account_name": "Building Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "5214211",
+      "account_name": "Forklift Maint & Spares Exp",
+      "balance": 0
+    },
+    {
+      "account_code": "5214214",
+      "account_name": "Mach&Equip.S/Part Break.Manual",
+      "balance": 0
+    },
+    {
+      "account_code": "5214218",
+      "account_name": "Car & Trucks Vehicle Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5214219",
+      "account_name": "Plant (Mach&Equipt) Maint.Exp",
+      "balance": 0
+    },
+    {
+      "account_code": "5214224",
+      "account_name": "Stationery Exp Manual",
+      "balance": 0
+    },
+    {
+      "account_code": "5214225",
+      "account_name": "Building & Office Exp (Manual)",
+      "balance": 0
+    },
+    {
+      "account_code": "5214226",
+      "account_name": "Car Truck & Sparepart (Manual)",
+      "balance": 0
+    },
+    {
+      "account_code": "5214234",
+      "account_name": "Mach&Equip.S/Parts Breaked",
+      "balance": 0
+    },
+    {
+      "account_code": "5214235",
+      "account_name": "Hardware & Software Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "5214239",
+      "account_name": "Forklift Maint & Spares-Manual",
+      "balance": 0
+    },
+    {
+      "account_code": "5215102",
+      "account_name": "Certification Charges",
+      "balance": 0
+    },
+    {
+      "account_code": "5215103",
+      "account_name": "Attestation Fee (COC, Ministry",
+      "balance": 0
+    },
+    {
+      "account_code": "5215104",
+      "account_name": "Car,Truck Plate & License",
+      "balance": 0
+    },
+    {
+      "account_code": "5215201",
+      "account_name": "Audit Fees",
+      "balance": 0
+    },
+    {
+      "account_code": "5215202",
+      "account_name": "Legal Fees",
+      "balance": 0
+    },
+    {
+      "account_code": "5215203",
+      "account_name": "Iso 9001-2000",
+      "balance": 0
+    },
+    {
+      "account_code": "5215205",
+      "account_name": "Consultancy Charges",
+      "balance": 0
+    },
+    {
+      "account_code": "5215208",
+      "account_name": "Subscription",
+      "balance": 0
+    },
+    {
+      "account_code": "5216101",
+      "account_name": "Property All Risks Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5216102",
+      "account_name": "Vehicle Insurance",
+      "balance": 0
+    },
+    {
+      "account_code": "5216104",
+      "account_name": "Money Insurance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5216105",
+      "account_name": "Marine Insurance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5217101",
+      "account_name": "Cleaning Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "5217102",
+      "account_name": "Boufiah Expense",
+      "balance": 0
+    },
+    {
+      "account_code": "5217103",
+      "account_name": "Drinking Water  Exp",
+      "balance": 0
+    },
+    {
+      "account_code": "5217104",
+      "account_name": "Hotel Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5217109",
+      "account_name": "Boufiah Expense (Integration)",
+      "balance": 0
+    },
+    {
+      "account_code": "5217110",
+      "account_name": "Cleaning Expense (Manual)",
+      "balance": 0
+    },
+    {
+      "account_code": "5217201",
+      "account_name": "Recruitment Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5217202",
+      "account_name": "Fair Participation Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5217205",
+      "account_name": "Guest Entertainment Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5218101",
+      "account_name": "Office Supplies Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5218102",
+      "account_name": "Stationery Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5218103",
+      "account_name": "Membership & Subscription",
+      "balance": 0
+    },
+    {
+      "account_code": "5218107",
+      "account_name": "Training Material (OKA)",
+      "balance": 0
+    },
+    {
+      "account_code": "5218108",
+      "account_name": "Office Supplies Exp (Manual)",
+      "balance": 0
+    },
+    {
+      "account_code": "5219101",
+      "account_name": "Safety Materials Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5219103",
+      "account_name": "Safety Materials Exp. (Manual)",
+      "balance": 0
+    },
+    {
+      "account_code": "5221102",
+      "account_name": "Samples Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5221105",
+      "account_name": "Bad Debts W/Off",
+      "balance": 0
+    },
+    {
+      "account_code": "5221201",
+      "account_name": "Freight Expense for Sales",
+      "balance": 0
+    },
+    {
+      "account_code": "5221203",
+      "account_name": "Customs Clearance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5221205",
+      "account_name": "Demurrage Charges Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5221206",
+      "account_name": "Travel Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5221208",
+      "account_name": "Surcharge Pcs Project",
+      "balance": 0
+    },
+    {
+      "account_code": "5221211",
+      "account_name": "Freight Expenses Sales-Manual",
+      "balance": 0
+    },
+    {
+      "account_code": "5221303",
+      "account_name": "Business Development Exp",
+      "balance": 0
+    },
+    {
+      "account_code": "5221305",
+      "account_name": "Tender  Fees",
+      "balance": 0
+    },
+    {
+      "account_code": "5231101",
+      "account_name": "Salaries Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231102",
+      "account_name": "Housing Allowance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231103",
+      "account_name": "Transportation Allowance Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231105",
+      "account_name": "Overtime Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231106",
+      "account_name": "Bonus Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231107",
+      "account_name": "Air Ticket Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231108",
+      "account_name": "Annual Vacation Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231109",
+      "account_name": "Visa & Iqama Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231110",
+      "account_name": "Medical Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5231111",
+      "account_name": "Working Meals Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231112",
+      "account_name": "End Of Service Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5231113",
+      "account_name": "Manpower Contract Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231114",
+      "account_name": "Food Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5231115",
+      "account_name": "Uniforms Exp.",
+      "balance": 0
+    },
+    {
+      "account_code": "5231118",
+      "account_name": "GOSI Expense-Non Saudi",
+      "balance": 0
+    },
+    {
+      "account_code": "5231121",
+      "account_name": "GOSI Expense -Saudis",
+      "balance": 0
+    },
+    {
+      "account_code": "5231122",
+      "account_name": "Conveyance Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5231123",
+      "account_name": "Staff Welfare Expenses",
+      "balance": 0
+    },
+    {
+      "account_code": "5231125",
+      "account_name": "Other Employee Benefits",
+      "balance": 0
+    },
+    {
+      "account_code": "5231126",
+      "account_name": "Deductions",
+      "balance": 0
+    },
+    {
+      "account_code": "5231139",
+      "account_name": "Special Allowances",
+      "balance": 0
+    },
+    {
+      "account_code": "5231147",
+      "account_name": "Uniforms Exp. (Manual)",
+      "balance": 0
+    },
+    {
+      "account_code": "5231150",
+      "account_name": "Gain/loss of employees? ter",
+      "balance": 0
+    },
+    {
+      "account_code": "5241110",
+      "account_name": "Int on Long Term Loans-RYD",
+      "balance": 0
+    },
+    {
+      "account_code": "5241199",
+      "account_name": "Interest on Long Term Loans",
+      "balance": 0
+    },
+    {
+      "account_code": "5241299",
+      "account_name": "Interest on Short Term Loans",
+      "balance": 0
+    },
+    {
+      "account_code": "5241302",
+      "account_name": "Int on Refinance Loans-SAMBA",
+      "balance": 0
+    },
+    {
+      "account_code": "5241312",
+      "account_name": "Int on Refinance Loans-AlBilad",
+      "balance": 0
+    },
+    {
+      "account_code": "5241401",
+      "account_name": "LC Charges",
+      "balance": 0
+    },
+    {
+      "account_code": "5241501",
+      "account_name": "LG Charges",
+      "balance": 0
+    },
+    {
+      "account_code": "5241601",
+      "account_name": "Facility Fees",
+      "balance": 0
+    },
+    {
+      "account_code": "5241702",
+      "account_name": "Other Finance Cost",
+      "balance": 0
+    },
+    {
+      "account_code": "5241805",
+      "account_name": "Bank Charges",
+      "balance": 0
+    },
+    {
+      "account_code": "5251101",
+      "account_name": "Depreciation Building",
+      "balance": 0
+    },
+    {
+      "account_code": "5251102",
+      "account_name": "Depreciation Plant & Machinery",
+      "balance": 0
+    },
+    {
+      "account_code": "5251103",
+      "account_name": "Depreciation Furniture",
+      "balance": 0
+    },
+    {
+      "account_code": "5251104",
+      "account_name": "Depreciation Fixture",
+      "balance": 0
+    },
+    {
+      "account_code": "5251106",
+      "account_name": "Depreciation Equipment",
+      "balance": 0
+    },
+    {
+      "account_code": "5251107",
+      "account_name": "Depreciation Computers",
+      "balance": 0
+    },
+    {
+      "account_code": "5251111",
+      "account_name": "Depreciation Tools",
+      "balance": 0
+    },
+    {
+      "account_code": "5251112",
+      "account_name": "Depreciation Mobile",
+      "balance": 0
+    },
+    {
+      "account_code": "5261101",
+      "account_name": "Zakat",
+      "balance": 0
+    },
+    {
+      "account_code": "5311304",
+      "account_name": "Currency Profit/ Loss(Purchase",
+      "balance": 0
+    },
+    {
+      "account_code": "5311308",
+      "account_name": "Provision For Inventory Losses",
+      "balance": 0
+    },
+    {
+      "account_code": "5311309",
+      "account_name": "Currency Difference",
+      "balance": 0
+    }
+  ],
+  "meta": {
+    "detectedColumns": [
+      "Ledger Account",
+      "Ledger Name",
+      "Mapping",
+      "Financial Statement Items"
+    ],
+    "codeCol": "Ledger Account",
+    "nameCol": "Ledger Name",
+    "debitCol": null,
+    "creditCol": null,
+    "balanceCol": null,
+    "rowCount": 341
+  }
+}

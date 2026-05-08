@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "account_code": "1111102",
+      "account_name": "Purchase Fund",
+      "balance": 37715
+    },
+    {
+      "account_code": "1112103",
+      "account_name": "Riyad Bank SAR",
+      "balance": 0
+    },
+    {
+      "account_code": "1112112",
+      "account_name": "Bank AlBilad SAR",
+      "balance": 327509
+    },
+    {
+      "account_code": "1121101",
+      "account_name": "Accounts Receivable Local",
+      "balance": 1241358
+    },
+    {
+      "account_code": "2001001",
+      "account_name": "Accounts Payable Trade",
+      "balance": -500000
+    },
+    {
+      "account_code": "4001001",
+      "account_name": "Sales Revenue",
+      "balance": -985000
+    }
+  ],
+  "meta": {
+    "detectedColumns": [
+      "Ledger Account",
+      "Ledger Name",
+      "Opening Balance",
+      "Closing Balance"
+    ],
+    "codeCol": "Ledger Account",
+    "nameCol": "Ledger Name",
+    "debitCol": null,
+    "creditCol": null,
+    "balanceCol": "Closing Balance",
+    "rowCount": 6
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "account_code": "1001",
+      "account_name": "Cash at Bank",
+      "balance": 125000
+    },
+    {
+      "account_code": "1002",
+      "account_name": "Petty Cash",
+      "balance": 2500
+    },
+    {
+      "account_code": "1010",
+      "account_name": "Accounts Receivable",
+      "balance": 380000
+    },
+    {
+      "account_code": "2001",
+      "account_name": "Accounts Payable",
+      "balance": -145000
+    },
+    {
+      "account_code": "4001",
+      "account_name": "Sales Revenue",
+      "balance": -985000
+    },
+    {
+      "account_code": "5001",
+      "account_name": "Cost of Goods Sold",
+      "balance": 620000
+    }
+  ],
+  "meta": {
+    "detectedColumns": [
+      "Account Code",
+      "Account Name",
+      "Debit",
+      "Credit"
+    ],
+    "codeCol": "Account Code",
+    "nameCol": "Account Name",
+    "debitCol": "Debit",
+    "creditCol": "Credit",
+    "balanceCol": null,
+    "rowCount": 6
+  }
+}

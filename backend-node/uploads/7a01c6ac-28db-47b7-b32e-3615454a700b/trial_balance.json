@@ -1,0 +1,1731 @@
+{
+  "records": [
+    {
+      "account_code": "",
+      "account_name": "1111102",
+      "balance": 37715
+    },
+    {
+      "account_code": "",
+      "account_name": "1112103",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1112112",
+      "balance": 327509
+    },
+    {
+      "account_code": "",
+      "account_name": "1112121",
+      "balance": 504865
+    },
+    {
+      "account_code": "",
+      "account_name": "1112216",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1121101",
+      "balance": 1241358
+    },
+    {
+      "account_code": "",
+      "account_name": "1121102",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1121103",
+      "balance": -330647
+    },
+    {
+      "account_code": "",
+      "account_name": "1121201",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1121301",
+      "balance": 11301295
+    },
+    {
+      "account_code": "",
+      "account_name": "1121401",
+      "balance": 103583805
+    },
+    {
+      "account_code": "",
+      "account_name": "1122101",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1122102",
+      "balance": -978510
+    },
+    {
+      "account_code": "",
+      "account_name": "1122105",
+      "balance": -77162
+    },
+    {
+      "account_code": "",
+      "account_name": "1131101",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1131103",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1131104",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1131105",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1131106",
+      "balance": 118868
+    },
+    {
+      "account_code": "",
+      "account_name": "1131201",
+      "balance": 216121
+    },
+    {
+      "account_code": "",
+      "account_name": "1131301",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1131303",
+      "balance": 46562
+    },
+    {
+      "account_code": "",
+      "account_name": "1131306",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1131501",
+      "balance": 9983
+    },
+    {
+      "account_code": "",
+      "account_name": "1131503",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1131602",
+      "balance": 458988
+    },
+    {
+      "account_code": "",
+      "account_name": "1131606",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1131607",
+      "balance": 349666
+    },
+    {
+      "account_code": "",
+      "account_name": "1131611",
+      "balance": 200000
+    },
+    {
+      "account_code": "",
+      "account_name": "1131701",
+      "balance": -23115
+    },
+    {
+      "account_code": "",
+      "account_name": "1132101",
+      "balance": 185243
+    },
+    {
+      "account_code": "",
+      "account_name": "1132102",
+      "balance": 19583
+    },
+    {
+      "account_code": "",
+      "account_name": "1132103",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1132104",
+      "balance": 436
+    },
+    {
+      "account_code": "",
+      "account_name": "1132113",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1132201",
+      "balance": 109225
+    },
+    {
+      "account_code": "",
+      "account_name": "1132202",
+      "balance": 249977
+    },
+    {
+      "account_code": "",
+      "account_name": "1132210",
+      "balance": 352908
+    },
+    {
+      "account_code": "",
+      "account_name": "1132211",
+      "balance": -358032
+    },
+    {
+      "account_code": "",
+      "account_name": "1151101",
+      "balance": 238234543
+    },
+    {
+      "account_code": "",
+      "account_name": "1151102",
+      "balance": 168783234
+    },
+    {
+      "account_code": "",
+      "account_name": "1151103",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151104",
+      "balance": 316345
+    },
+    {
+      "account_code": "",
+      "account_name": "1151105",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151107",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151108",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151109",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151110",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151111",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151113",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151114",
+      "balance": 72288
+    },
+    {
+      "account_code": "",
+      "account_name": "1151118",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1151124",
+      "balance": 121
+    },
+    {
+      "account_code": "",
+      "account_name": "1151125",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1152101",
+      "balance": 25491
+    },
+    {
+      "account_code": "",
+      "account_name": "1152106",
+      "balance": 1163629
+    },
+    {
+      "account_code": "",
+      "account_name": "1161101",
+      "balance": 11058662
+    },
+    {
+      "account_code": "",
+      "account_name": "1161103",
+      "balance": 131517
+    },
+    {
+      "account_code": "",
+      "account_name": "1161104",
+      "balance": 393081
+    },
+    {
+      "account_code": "",
+      "account_name": "1161401",
+      "balance": 588800
+    },
+    {
+      "account_code": "",
+      "account_name": "1161402",
+      "balance": -588800
+    },
+    {
+      "account_code": "",
+      "account_name": "1163101",
+      "balance": 5783566
+    },
+    {
+      "account_code": "",
+      "account_name": "1163110",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1163112",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1163121",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1163126",
+      "balance": 406941
+    },
+    {
+      "account_code": "",
+      "account_name": "1164101",
+      "balance": 2531632
+    },
+    {
+      "account_code": "",
+      "account_name": "1164123",
+      "balance": 2790
+    },
+    {
+      "account_code": "",
+      "account_name": "1166101",
+      "balance": 75670
+    },
+    {
+      "account_code": "",
+      "account_name": "1168101",
+      "balance": 2579917
+    },
+    {
+      "account_code": "",
+      "account_name": "1168102",
+      "balance": 11618
+    },
+    {
+      "account_code": "",
+      "account_name": "1168103",
+      "balance": -1065866
+    },
+    {
+      "account_code": "",
+      "account_name": "1168201",
+      "balance": 24656
+    },
+    {
+      "account_code": "",
+      "account_name": "1181107",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181108",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181109",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181111",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181112",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181113",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181115",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181124",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181148",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181169",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181177",
+      "balance": 1310
+    },
+    {
+      "account_code": "",
+      "account_name": "1181185",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1181188",
+      "balance": -8259144
+    },
+    {
+      "account_code": "",
+      "account_name": "1181189",
+      "balance": 513529
+    },
+    {
+      "account_code": "",
+      "account_name": "1189999",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1261101",
+      "balance": 11866940
+    },
+    {
+      "account_code": "",
+      "account_name": "1261102",
+      "balance": 162353490
+    },
+    {
+      "account_code": "",
+      "account_name": "1261103",
+      "balance": 4586766
+    },
+    {
+      "account_code": "",
+      "account_name": "1261104",
+      "balance": 397013
+    },
+    {
+      "account_code": "",
+      "account_name": "1261105",
+      "balance": 91154
+    },
+    {
+      "account_code": "",
+      "account_name": "1261106",
+      "balance": 169300
+    },
+    {
+      "account_code": "",
+      "account_name": "1261107",
+      "balance": 1500146
+    },
+    {
+      "account_code": "",
+      "account_name": "1261111",
+      "balance": 87346
+    },
+    {
+      "account_code": "",
+      "account_name": "1261112",
+      "balance": 10089
+    },
+    {
+      "account_code": "",
+      "account_name": "1261201",
+      "balance": -9050849
+    },
+    {
+      "account_code": "",
+      "account_name": "1261202",
+      "balance": -141317576
+    },
+    {
+      "account_code": "",
+      "account_name": "1261203",
+      "balance": -4185240
+    },
+    {
+      "account_code": "",
+      "account_name": "1261204",
+      "balance": -383853
+    },
+    {
+      "account_code": "",
+      "account_name": "1261205",
+      "balance": -91548
+    },
+    {
+      "account_code": "",
+      "account_name": "1261206",
+      "balance": -169297
+    },
+    {
+      "account_code": "",
+      "account_name": "1261207",
+      "balance": -1291924
+    },
+    {
+      "account_code": "",
+      "account_name": "1261211",
+      "balance": -79425
+    },
+    {
+      "account_code": "",
+      "account_name": "1261212",
+      "balance": -10081
+    },
+    {
+      "account_code": "",
+      "account_name": "1262101",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1262201",
+      "balance": 5777
+    },
+    {
+      "account_code": "",
+      "account_name": "2111101",
+      "balance": -22287761
+    },
+    {
+      "account_code": "",
+      "account_name": "2111102",
+      "balance": -518011
+    },
+    {
+      "account_code": "",
+      "account_name": "2111103",
+      "balance": -4237166
+    },
+    {
+      "account_code": "",
+      "account_name": "2111105",
+      "balance": 50731
+    },
+    {
+      "account_code": "",
+      "account_name": "2111106",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2111107",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2111111",
+      "balance": -205659
+    },
+    {
+      "account_code": "",
+      "account_name": "2111113",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2111115",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2111117",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2111118",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2111140",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121101",
+      "balance": -15963
+    },
+    {
+      "account_code": "",
+      "account_name": "2121102",
+      "balance": -178804
+    },
+    {
+      "account_code": "",
+      "account_name": "2121104",
+      "balance": -517442
+    },
+    {
+      "account_code": "",
+      "account_name": "2121105",
+      "balance": -1129637
+    },
+    {
+      "account_code": "",
+      "account_name": "2121106",
+      "balance": -38850
+    },
+    {
+      "account_code": "",
+      "account_name": "2121107",
+      "balance": -58509
+    },
+    {
+      "account_code": "",
+      "account_name": "2121108",
+      "balance": -943416
+    },
+    {
+      "account_code": "",
+      "account_name": "2121109",
+      "balance": -954144
+    },
+    {
+      "account_code": "",
+      "account_name": "2121114",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121201",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121202",
+      "balance": -60701
+    },
+    {
+      "account_code": "",
+      "account_name": "2121301",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121302",
+      "balance": -23608
+    },
+    {
+      "account_code": "",
+      "account_name": "2121303",
+      "balance": -11628
+    },
+    {
+      "account_code": "",
+      "account_name": "2121310",
+      "balance": -29627
+    },
+    {
+      "account_code": "",
+      "account_name": "2121401",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121410",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121416",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121433",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121440",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121496",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121497",
+      "balance": -586109
+    },
+    {
+      "account_code": "",
+      "account_name": "2121501",
+      "balance": -3546433
+    },
+    {
+      "account_code": "",
+      "account_name": "2121601",
+      "balance": -74000
+    },
+    {
+      "account_code": "",
+      "account_name": "2121801",
+      "balance": -84780
+    },
+    {
+      "account_code": "",
+      "account_name": "2121802",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121807",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121809",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2121822",
+      "balance": -104411
+    },
+    {
+      "account_code": "",
+      "account_name": "2122101",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2122103",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2122107",
+      "balance": 330854
+    },
+    {
+      "account_code": "",
+      "account_name": "2122108",
+      "balance": -286780
+    },
+    {
+      "account_code": "",
+      "account_name": "2123102",
+      "balance": -435642
+    },
+    {
+      "account_code": "",
+      "account_name": "2125101",
+      "balance": 221
+    },
+    {
+      "account_code": "",
+      "account_name": "2125102",
+      "balance": -902184
+    },
+    {
+      "account_code": "",
+      "account_name": "2141102",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2141103",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2141104",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2141105",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2141106",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2141107",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2141109",
+      "balance": -1164
+    },
+    {
+      "account_code": "",
+      "account_name": "2141111",
+      "balance": -99006069
+    },
+    {
+      "account_code": "",
+      "account_name": "2141112",
+      "balance": -362896
+    },
+    {
+      "account_code": "",
+      "account_name": "2141114",
+      "balance": -24659740
+    },
+    {
+      "account_code": "",
+      "account_name": "2141124",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2141125",
+      "balance": -626218
+    },
+    {
+      "account_code": "",
+      "account_name": "2142107",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2151110",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2152110",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "2171101",
+      "balance": -3000000
+    },
+    {
+      "account_code": "",
+      "account_name": "2231101",
+      "balance": -7455733
+    },
+    {
+      "account_code": "",
+      "account_name": "2231102",
+      "balance": -75737
+    },
+    {
+      "account_code": "",
+      "account_name": "3111101",
+      "balance": -13000000
+    },
+    {
+      "account_code": "",
+      "account_name": "3311101",
+      "balance": -311267704
+    },
+    {
+      "account_code": "",
+      "account_name": "3511101",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "3611102",
+      "balance": -36659092
+    },
+    {
+      "account_code": "",
+      "account_name": "4111101",
+      "balance": -7203226
+    },
+    {
+      "account_code": "",
+      "account_name": "4111301",
+      "balance": -3884190
+    },
+    {
+      "account_code": "",
+      "account_name": "4111316",
+      "balance": -261627
+    },
+    {
+      "account_code": "",
+      "account_name": "4111401",
+      "balance": -200459577
+    },
+    {
+      "account_code": "",
+      "account_name": "4111552",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "4211301",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "4211401",
+      "balance": 194868
+    },
+    {
+      "account_code": "",
+      "account_name": "4211402",
+      "balance": 7
+    },
+    {
+      "account_code": "",
+      "account_name": "4211403",
+      "balance": 13
+    },
+    {
+      "account_code": "",
+      "account_name": "4211501",
+      "balance": -139167
+    },
+    {
+      "account_code": "",
+      "account_name": "4211504",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "4211803",
+      "balance": -41406
+    },
+    {
+      "account_code": "",
+      "account_name": "5111101",
+      "balance": 104827676
+    },
+    {
+      "account_code": "",
+      "account_name": "5111102",
+      "balance": 14349832
+    },
+    {
+      "account_code": "",
+      "account_name": "5111103",
+      "balance": 10319474
+    },
+    {
+      "account_code": "",
+      "account_name": "5111104",
+      "balance": 9129855
+    },
+    {
+      "account_code": "",
+      "account_name": "5111105",
+      "balance": 6704
+    },
+    {
+      "account_code": "",
+      "account_name": "5111116",
+      "balance": 215926
+    },
+    {
+      "account_code": "",
+      "account_name": "5111118",
+      "balance": 84060
+    },
+    {
+      "account_code": "",
+      "account_name": "5111119",
+      "balance": 4238977
+    },
+    {
+      "account_code": "",
+      "account_name": "5111143",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5112102",
+      "balance": 9956038
+    },
+    {
+      "account_code": "",
+      "account_name": "5112103",
+      "balance": -9642631
+    },
+    {
+      "account_code": "",
+      "account_name": "5112104",
+      "balance": -10465374
+    },
+    {
+      "account_code": "",
+      "account_name": "5113101",
+      "balance": -248809
+    },
+    {
+      "account_code": "",
+      "account_name": "5113102",
+      "balance": -18614068
+    },
+    {
+      "account_code": "",
+      "account_name": "5113103",
+      "balance": -539773
+    },
+    {
+      "account_code": "",
+      "account_name": "5113105",
+      "balance": 10783750
+    },
+    {
+      "account_code": "",
+      "account_name": "5113107",
+      "balance": 728
+    },
+    {
+      "account_code": "",
+      "account_name": "5113108",
+      "balance": 3094791
+    },
+    {
+      "account_code": "",
+      "account_name": "5113124",
+      "balance": -4954428
+    },
+    {
+      "account_code": "",
+      "account_name": "5113135",
+      "balance": -351618
+    },
+    {
+      "account_code": "",
+      "account_name": "5113143",
+      "balance": -500
+    },
+    {
+      "account_code": "",
+      "account_name": "5113150",
+      "balance": -170673
+    },
+    {
+      "account_code": "",
+      "account_name": "5114101",
+      "balance": -2606957
+    },
+    {
+      "account_code": "",
+      "account_name": "5114115",
+      "balance": 1939954
+    },
+    {
+      "account_code": "",
+      "account_name": "5115102",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5211101",
+      "balance": 663784
+    },
+    {
+      "account_code": "",
+      "account_name": "5211102",
+      "balance": 1039781
+    },
+    {
+      "account_code": "",
+      "account_name": "5211103",
+      "balance": 722405
+    },
+    {
+      "account_code": "",
+      "account_name": "5211104",
+      "balance": 234560
+    },
+    {
+      "account_code": "",
+      "account_name": "5211106",
+      "balance": 750501
+    },
+    {
+      "account_code": "",
+      "account_name": "5211107",
+      "balance": 2956443
+    },
+    {
+      "account_code": "",
+      "account_name": "5211108",
+      "balance": 268426
+    },
+    {
+      "account_code": "",
+      "account_name": "5211113",
+      "balance": 366531
+    },
+    {
+      "account_code": "",
+      "account_name": "5211116",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5211117",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5211119",
+      "balance": 1060895
+    },
+    {
+      "account_code": "",
+      "account_name": "5211121",
+      "balance": 451859
+    },
+    {
+      "account_code": "",
+      "account_name": "5211122",
+      "balance": 488536
+    },
+    {
+      "account_code": "",
+      "account_name": "5211123",
+      "balance": 141579
+    },
+    {
+      "account_code": "",
+      "account_name": "5211124",
+      "balance": 151603
+    },
+    {
+      "account_code": "",
+      "account_name": "5211125",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5211126",
+      "balance": 303047
+    },
+    {
+      "account_code": "",
+      "account_name": "5212105",
+      "balance": 10733
+    },
+    {
+      "account_code": "",
+      "account_name": "5212106",
+      "balance": 1200
+    },
+    {
+      "account_code": "",
+      "account_name": "5212107",
+      "balance": 65248
+    },
+    {
+      "account_code": "",
+      "account_name": "5212109",
+      "balance": 967636
+    },
+    {
+      "account_code": "",
+      "account_name": "5212112",
+      "balance": 41660
+    },
+    {
+      "account_code": "",
+      "account_name": "5213101",
+      "balance": 383444
+    },
+    {
+      "account_code": "",
+      "account_name": "5213102",
+      "balance": 2044199
+    },
+    {
+      "account_code": "",
+      "account_name": "5213201",
+      "balance": 1070
+    },
+    {
+      "account_code": "",
+      "account_name": "5213301",
+      "balance": 28860
+    },
+    {
+      "account_code": "",
+      "account_name": "5213303",
+      "balance": 42963
+    },
+    {
+      "account_code": "",
+      "account_name": "5213304",
+      "balance": 1500
+    },
+    {
+      "account_code": "",
+      "account_name": "5214101",
+      "balance": 38962
+    },
+    {
+      "account_code": "",
+      "account_name": "5214102",
+      "balance": 123762
+    },
+    {
+      "account_code": "",
+      "account_name": "5214201",
+      "balance": 100
+    },
+    {
+      "account_code": "",
+      "account_name": "5214203",
+      "balance": 2288313
+    },
+    {
+      "account_code": "",
+      "account_name": "5214206",
+      "balance": 101407
+    },
+    {
+      "account_code": "",
+      "account_name": "5214211",
+      "balance": 15540
+    },
+    {
+      "account_code": "",
+      "account_name": "5214214",
+      "balance": 500
+    },
+    {
+      "account_code": "",
+      "account_name": "5214218",
+      "balance": 4028
+    },
+    {
+      "account_code": "",
+      "account_name": "5214219",
+      "balance": 1268270
+    },
+    {
+      "account_code": "",
+      "account_name": "5214224",
+      "balance": 2782
+    },
+    {
+      "account_code": "",
+      "account_name": "5214225",
+      "balance": 26994
+    },
+    {
+      "account_code": "",
+      "account_name": "5214226",
+      "balance": 19827
+    },
+    {
+      "account_code": "",
+      "account_name": "5214234",
+      "balance": 31614
+    },
+    {
+      "account_code": "",
+      "account_name": "5214235",
+      "balance": 70908
+    },
+    {
+      "account_code": "",
+      "account_name": "5214239",
+      "balance": 50125
+    },
+    {
+      "account_code": "",
+      "account_name": "5215102",
+      "balance": 48743
+    },
+    {
+      "account_code": "",
+      "account_name": "5215103",
+      "balance": 1657
+    },
+    {
+      "account_code": "",
+      "account_name": "5215104",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5215201",
+      "balance": 100000
+    },
+    {
+      "account_code": "",
+      "account_name": "5215202",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5215203",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5215205",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5215208",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5216101",
+      "balance": 803920
+    },
+    {
+      "account_code": "",
+      "account_name": "5216102",
+      "balance": 6210
+    },
+    {
+      "account_code": "",
+      "account_name": "5216104",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5216105",
+      "balance": 9999
+    },
+    {
+      "account_code": "",
+      "account_name": "5217101",
+      "balance": 36972
+    },
+    {
+      "account_code": "",
+      "account_name": "5217102",
+      "balance": -29460
+    },
+    {
+      "account_code": "",
+      "account_name": "5217103",
+      "balance": 54594
+    },
+    {
+      "account_code": "",
+      "account_name": "5217104",
+      "balance": 15886
+    },
+    {
+      "account_code": "",
+      "account_name": "5217109",
+      "balance": 6179
+    },
+    {
+      "account_code": "",
+      "account_name": "5217110",
+      "balance": 192706
+    },
+    {
+      "account_code": "",
+      "account_name": "5217201",
+      "balance": 1257
+    },
+    {
+      "account_code": "",
+      "account_name": "5217202",
+      "balance": 7918
+    },
+    {
+      "account_code": "",
+      "account_name": "5217205",
+      "balance": 1982
+    },
+    {
+      "account_code": "",
+      "account_name": "5218101",
+      "balance": 9984
+    },
+    {
+      "account_code": "",
+      "account_name": "5218102",
+      "balance": 39671
+    },
+    {
+      "account_code": "",
+      "account_name": "5218103",
+      "balance": 1600
+    },
+    {
+      "account_code": "",
+      "account_name": "5218107",
+      "balance": 399
+    },
+    {
+      "account_code": "",
+      "account_name": "5218108",
+      "balance": 8237
+    },
+    {
+      "account_code": "",
+      "account_name": "5219101",
+      "balance": 4140
+    },
+    {
+      "account_code": "",
+      "account_name": "5219103",
+      "balance": 17066
+    },
+    {
+      "account_code": "",
+      "account_name": "5221102",
+      "balance": 2400
+    },
+    {
+      "account_code": "",
+      "account_name": "5221105",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5221201",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5221203",
+      "balance": 362646
+    },
+    {
+      "account_code": "",
+      "account_name": "5221205",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5221206",
+      "balance": 5115
+    },
+    {
+      "account_code": "",
+      "account_name": "5221208",
+      "balance": 170673
+    },
+    {
+      "account_code": "",
+      "account_name": "5221211",
+      "balance": 3451818
+    },
+    {
+      "account_code": "",
+      "account_name": "5221303",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5221305",
+      "balance": 9610
+    },
+    {
+      "account_code": "",
+      "account_name": "5231101",
+      "balance": 6238739
+    },
+    {
+      "account_code": "",
+      "account_name": "5231102",
+      "balance": 930682
+    },
+    {
+      "account_code": "",
+      "account_name": "5231103",
+      "balance": 353286
+    },
+    {
+      "account_code": "",
+      "account_name": "5231105",
+      "balance": 1586214
+    },
+    {
+      "account_code": "",
+      "account_name": "5231106",
+      "balance": 626522
+    },
+    {
+      "account_code": "",
+      "account_name": "5231107",
+      "balance": 407101
+    },
+    {
+      "account_code": "",
+      "account_name": "5231108",
+      "balance": 556909
+    },
+    {
+      "account_code": "",
+      "account_name": "5231109",
+      "balance": 1110430
+    },
+    {
+      "account_code": "",
+      "account_name": "5231110",
+      "balance": 434033
+    },
+    {
+      "account_code": "",
+      "account_name": "5231111",
+      "balance": 40612
+    },
+    {
+      "account_code": "",
+      "account_name": "5231112",
+      "balance": 645302
+    },
+    {
+      "account_code": "",
+      "account_name": "5231113",
+      "balance": 2583094
+    },
+    {
+      "account_code": "",
+      "account_name": "5231114",
+      "balance": 810713
+    },
+    {
+      "account_code": "",
+      "account_name": "5231115",
+      "balance": 33076
+    },
+    {
+      "account_code": "",
+      "account_name": "5231118",
+      "balance": 145953
+    },
+    {
+      "account_code": "",
+      "account_name": "5231121",
+      "balance": 207400
+    },
+    {
+      "account_code": "",
+      "account_name": "5231122",
+      "balance": 2831
+    },
+    {
+      "account_code": "",
+      "account_name": "5231123",
+      "balance": 29197
+    },
+    {
+      "account_code": "",
+      "account_name": "5231125",
+      "balance": 380
+    },
+    {
+      "account_code": "",
+      "account_name": "5231126",
+      "balance": -4743
+    },
+    {
+      "account_code": "",
+      "account_name": "5231139",
+      "balance": 613019
+    },
+    {
+      "account_code": "",
+      "account_name": "5231147",
+      "balance": 6300
+    },
+    {
+      "account_code": "",
+      "account_name": "5231150",
+      "balance": 75737
+    },
+    {
+      "account_code": "",
+      "account_name": "5241110",
+      "balance": 509886
+    },
+    {
+      "account_code": "",
+      "account_name": "5241199",
+      "balance": 423104
+    },
+    {
+      "account_code": "",
+      "account_name": "5241299",
+      "balance": 1533246
+    },
+    {
+      "account_code": "",
+      "account_name": "5241302",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5241312",
+      "balance": 1025616
+    },
+    {
+      "account_code": "",
+      "account_name": "5241401",
+      "balance": 15969
+    },
+    {
+      "account_code": "",
+      "account_name": "5241501",
+      "balance": 26901
+    },
+    {
+      "account_code": "",
+      "account_name": "5241601",
+      "balance": 747478
+    },
+    {
+      "account_code": "",
+      "account_name": "5241702",
+      "balance": 120579
+    },
+    {
+      "account_code": "",
+      "account_name": "5241805",
+      "balance": 75552
+    },
+    {
+      "account_code": "",
+      "account_name": "5251101",
+      "balance": 566274
+    },
+    {
+      "account_code": "",
+      "account_name": "5251102",
+      "balance": 10100553
+    },
+    {
+      "account_code": "",
+      "account_name": "5251103",
+      "balance": 1669
+    },
+    {
+      "account_code": "",
+      "account_name": "5251104",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5251106",
+      "balance": 248615
+    },
+    {
+      "account_code": "",
+      "account_name": "5251107",
+      "balance": 74717
+    },
+    {
+      "account_code": "",
+      "account_name": "5251111",
+      "balance": 1583
+    },
+    {
+      "account_code": "",
+      "account_name": "5251112",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5261101",
+      "balance": 3000000
+    },
+    {
+      "account_code": "",
+      "account_name": "5311304",
+      "balance": 76953
+    },
+    {
+      "account_code": "",
+      "account_name": "5311308",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "5311309",
+      "balance": 29741
+    }
+  ],
+  "meta": {
+    "detectedColumns": [
+      "Ledger Account",
+      "Ledger Name",
+      "Opening Balance",
+      "Closing Balance",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "codeCol": null,
+    "nameCol": "Ledger Account",
+    "debitCol": null,
+    "creditCol": null,
+    "balanceCol": "Closing Balance",
+    "rowCount": 342
+  }
+}

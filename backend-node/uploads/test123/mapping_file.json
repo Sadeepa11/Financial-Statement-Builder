@@ -1,0 +1,2064 @@
+{
+  "records": [
+    {
+      "account_code": "1111102",
+      "account_name": "Purchase Fund",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1112103",
+      "account_name": "Riyad Bank SAR",
+      "mapping_category": "Cash and bank",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1112112",
+      "account_name": "Bank AlBilad SAR",
+      "mapping_category": "Cash and bank",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1112121",
+      "account_name": "AlInma Bank SAR",
+      "mapping_category": "Cash and bank",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1112216",
+      "account_name": "ANP AlInma Bank",
+      "mapping_category": "Cash and bank",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1121101",
+      "account_name": "Accounts Receivable Local",
+      "mapping_category": "Accounts receivables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1121102",
+      "account_name": "Advance Receipts Local",
+      "mapping_category": "Accounts receivables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1121103",
+      "account_name": "Unallocated Receipts Local",
+      "mapping_category": "Accounts receivables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1121201",
+      "account_name": "Account Receivable Export",
+      "mapping_category": "Accounts receivables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1121301",
+      "account_name": "Account Receivable Intercompan",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1121401",
+      "account_name": "Account Receivable Government",
+      "mapping_category": "Accounts receivables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1122101",
+      "account_name": "Accounts Receivable Others",
+      "mapping_category": "Accounts receivables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1122102",
+      "account_name": "Provision For Bad Debts-Others",
+      "mapping_category": "Accounts receivables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1122105",
+      "account_name": "Accounts Under Clearance",
+      "mapping_category": "Accounts receivables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131101",
+      "account_name": "Prepaid Property All Risks Exp",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131103",
+      "account_name": "Prepaid Money Insurance Exp.",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131104",
+      "account_name": "Prepaid Marine Insurance Exp.",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131105",
+      "account_name": "Prepaid Vehicle Insurance Exp.",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131106",
+      "account_name": "Prepaid Medical Insurance Exp.",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131201",
+      "account_name": "Prepaid Housing Allowance Exp.",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131301",
+      "account_name": "Prepaid Warehouse Rent Exp.",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131303",
+      "account_name": "Prepaid Factory Buillding Rent",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131306",
+      "account_name": "Prepaid Land Rent",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131501",
+      "account_name": "Prepaid Mempershep Fee",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131503",
+      "account_name": "Prepaid Legal Fee",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131602",
+      "account_name": "Custom Duty Refundable",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131606",
+      "account_name": "Prepaid Others",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131607",
+      "account_name": "Prepaid Saudization",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131611",
+      "account_name": "LG Margin Deposit",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1131701",
+      "account_name": "Prepaid Interest",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132101",
+      "account_name": "Advance To Employees(Loan)",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132102",
+      "account_name": "Advance To Employees(Others)",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132103",
+      "account_name": "Advance To Employees(Car)",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132104",
+      "account_name": "Advance To Employees(Samsung)",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132113",
+      "account_name": "Advance Visa Charges Deposits",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132201",
+      "account_name": "Advance To Suppliers-Domestic",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132202",
+      "account_name": "Advance To Suppliers-Foreign",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132210",
+      "account_name": "Net Advance to Suppliers-VAT",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1132211",
+      "account_name": "Gross Advance to Suppliers-VAT",
+      "mapping_category": "Prepayment and other receivables",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151101",
+      "account_name": "Cur Acnt-ABC",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151102",
+      "account_name": "Cur Acnt-OPP",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151103",
+      "account_name": "Cur Acnt-Commercial Printing",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151104",
+      "account_name": "Cur Acnt-Folding Carton (Packa",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151105",
+      "account_name": "Cur Acnt-Graphic Center (OGC)",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151107",
+      "account_name": "Cur Acnt-Flexible",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151108",
+      "account_name": "Cur Acnt-Paper Industries (OPI",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151109",
+      "account_name": "Cur Acnt-Technical Fabrics (OT",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151110",
+      "account_name": "Cur Acnt-Tensile Structures (O",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151111",
+      "account_name": "Cur Acnt-Education (ORD)",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151113",
+      "account_name": "Cur Acnt-Refal Environment",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151114",
+      "account_name": "Cur Acnt-Rigid Plastic",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151118",
+      "account_name": "Cur Acnt-Real Estate",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151124",
+      "account_name": "Cur Acnt-ABCn Packaging Tec",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1151125",
+      "account_name": "Cur Acnt-ABCn Digital Compa",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1152101",
+      "account_name": "Cur Acnt-Elopak",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1152106",
+      "account_name": "Cur Acnt-Refal Binding",
+      "mapping_category": "Due from related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1161101",
+      "account_name": "Raw Materials - Main",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1161103",
+      "account_name": "Inventory - Rm Ink",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1161104",
+      "account_name": "Inventory - Rm Prepress",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1161401",
+      "account_name": "Consignment Ink Inventory",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1161402",
+      "account_name": "Consignment Accrual - Po",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1163101",
+      "account_name": "Work In Progress",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1163110",
+      "account_name": "Wip - Project (Pcs)",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1163112",
+      "account_name": "Work In Progres -Opening",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1163121",
+      "account_name": "Stock Preparation Buffer Stock",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1163126",
+      "account_name": "Work In Progress (Integration)",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1164101",
+      "account_name": "Finished Goods",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1164123",
+      "account_name": "Scrap Inventory",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1166101",
+      "account_name": "Stationery",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1168101",
+      "account_name": "Spare Parts",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1168102",
+      "account_name": "Auto Shop",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1168103",
+      "account_name": "Slow Moving Item - Provision",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1168201",
+      "account_name": "Consumables",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181107",
+      "account_name": "Interim Fixed Assets",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181108",
+      "account_name": "Interim - Transit General",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181109",
+      "account_name": "Interim - Variance",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181111",
+      "account_name": "Interim - Sales Revenues",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181112",
+      "account_name": "Interim - Cogs",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181113",
+      "account_name": "Inventory Interim Opening Bala",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181115",
+      "account_name": "Fixed Assets Disposal",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181124",
+      "account_name": "Interm Cost Serv/Maint-Manual",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181148",
+      "account_name": "Opening Balance (Inventory)",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181169",
+      "account_name": "Interim - Transit Consignment",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181177",
+      "account_name": "Interim Cost To Be Received",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181185",
+      "account_name": "Interim Intercompany Transacti",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181188",
+      "account_name": "Value Added Tax-Output",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1181189",
+      "account_name": "Value Added Tax-Input",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1189999",
+      "account_name": "Interim A/C-Interco",
+      "mapping_category": "Inventories",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261101",
+      "account_name": "Building",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261102",
+      "account_name": "Plant & Machinery",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261103",
+      "account_name": "Equipments",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261104",
+      "account_name": "Furniture",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261105",
+      "account_name": "Fixture",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261106",
+      "account_name": "Vehicles",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261107",
+      "account_name": "Computer Hardware & Software",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261111",
+      "account_name": "Tools",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261112",
+      "account_name": "Mobile",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261201",
+      "account_name": "Accum. Depreciation Building",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261202",
+      "account_name": "Accum. Depreciation Plant and",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261203",
+      "account_name": "Accum. Dep - Equipments",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261204",
+      "account_name": "Acc.Dep'n Furnitures",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261205",
+      "account_name": "Acc.Dep'n Fixtures",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261206",
+      "account_name": "Acc.Dep'n Vehicle",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261207",
+      "account_name": "Acc.Dep'n Computers",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261211",
+      "account_name": "Accumulated Deprn Tools",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1261212",
+      "account_name": "Accumulated Deprn Mobile",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1262101",
+      "account_name": "Project",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "1262201",
+      "account_name": "Project",
+      "mapping_category": "Property, Plant and Equipment-net",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111101",
+      "account_name": "Accounts Payable - Local",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111102",
+      "account_name": "Accounts Payable - Foreign",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111103",
+      "account_name": "Accounts Payable -Intercompany",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111105",
+      "account_name": "Un-Allocated Payments(Local)",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111106",
+      "account_name": "Un-Allocated Payments(Export)",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111107",
+      "account_name": "Un-Allocated Payments(Interco)",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111111",
+      "account_name": "Invoice To Be Received",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111113",
+      "account_name": "Invoice To Be Recieved(Manual)",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111115",
+      "account_name": "Anticipated Payments (Import)",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111117",
+      "account_name": "Registered Invoices (Local)",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111118",
+      "account_name": "Registered Invoices (Import)",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2111140",
+      "account_name": "Anticipated Payments (Local)",
+      "mapping_category": "Accounts payables-Trade",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121101",
+      "account_name": "Accrued Manpower Contract Exp.",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121102",
+      "account_name": "Accrued Food Expenses",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121104",
+      "account_name": "Accrued Air Ticket Exp.",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121105",
+      "account_name": "Accrued Annual Vacation Exp.",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121106",
+      "account_name": "Accrued Visa & Iqama Exp.",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121107",
+      "account_name": "Accrued Gosi Expense",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121108",
+      "account_name": "Accrued Payroll",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121109",
+      "account_name": "Accrued Bonus",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121114",
+      "account_name": "Accrued Salary",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121201",
+      "account_name": "Accrued Car Rent Exp.",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121202",
+      "account_name": "Accrued Building Rent",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121301",
+      "account_name": "Accrued Electricity Expenses",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121302",
+      "account_name": "Accrued Telephone Expense",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121303",
+      "account_name": "Accrued Gas Exp.",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121310",
+      "account_name": "Accrued Water Expense",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121401",
+      "account_name": "Accr Int Long Term Loan (SHB)",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121410",
+      "account_name": "Accr Int Long Term Loan (RYD)",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121416",
+      "account_name": "Acc Int Short Term Loan(SAMBA)",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121433",
+      "account_name": "Int Payable - BLD",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121440",
+      "account_name": "Accr Int Short Term Loan (Alin",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121496",
+      "account_name": "Accr Interest Long Term Loan",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121497",
+      "account_name": "Accr Interest Short Term Loan",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121501",
+      "account_name": "Accrued Expenses",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121601",
+      "account_name": "Accrued Audit Fees",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121801",
+      "account_name": "Accrued Others",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121802",
+      "account_name": "Accrued Shipping Cost",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121807",
+      "account_name": "Accrued Bonus- Others",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121809",
+      "account_name": "Accrued Freight Cost",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2121822",
+      "account_name": "Accrued Marine Insurance",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2122101",
+      "account_name": "Advance From Customers- Local",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2122103",
+      "account_name": "Advance From Customers- Interc",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2122107",
+      "account_name": "Net Advance from Customers-VAT",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2122108",
+      "account_name": "Gross Adv. from Customers-VAT",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2123102",
+      "account_name": "Salary Balances to be paid",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2125101",
+      "account_name": "Value Added Tax-Payable",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2125102",
+      "account_name": "Accrued Value Added Tax",
+      "mapping_category": "Accrued expenses and other liabilit",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141102",
+      "account_name": "Due To Subsidiaries - Opp",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141103",
+      "account_name": "Due To Subsidiaries - Paper In",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141104",
+      "account_name": "Due To Subsidiaries - Technica",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141105",
+      "account_name": "Due To Subsidiaries - Tensile",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141106",
+      "account_name": "Due To Subsidiaries - Educatio",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141107",
+      "account_name": "Due To Subsidiaries - Bookstor",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141109",
+      "account_name": "Due To Subsidiaries - Real Est",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141111",
+      "account_name": "Due To Subs - Folding Cartons",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141112",
+      "account_name": "Due To Subs - Graphic Center",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141114",
+      "account_name": "Due To Subs-Flexible",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141124",
+      "account_name": "Due To Subs-Packaging Technolo",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2141125",
+      "account_name": "Due To Subs-ABCn Digital Co",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2142107",
+      "account_name": "Due To Joint Ventures - Refal",
+      "mapping_category": "Due to related parties",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2151110",
+      "account_name": "LC Refinance (SAMBA)",
+      "mapping_category": "Short term loans",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2152110",
+      "account_name": "Short Term Loan-SAMBA",
+      "mapping_category": "Short term loans",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2171101",
+      "account_name": "Zakat Payable",
+      "mapping_category": "Zakat Payable",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2231101",
+      "account_name": "Employees Terminal Benefits",
+      "mapping_category": "Employees terminal benefits",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "2231102",
+      "account_name": "Employees Terminal Ben.-Actuar",
+      "mapping_category": "Employees terminal benefits",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "3111101",
+      "account_name": "Share Capital",
+      "mapping_category": "Shre capital",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "3311101",
+      "account_name": "Retained Earnings",
+      "mapping_category": "Retained Earnings",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "3511101",
+      "account_name": "Foreign Currency Translation R",
+      "mapping_category": "Foreign Currency Translation Reserve",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "3611102",
+      "account_name": "Subordinated Loan",
+      "mapping_category": "Subordinated Loan",
+      "statement_raw": "Balance Sheet"
+    },
+    {
+      "account_code": "4111101",
+      "account_name": "Local Sales",
+      "mapping_category": "Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4111301",
+      "account_name": "Intercompany Sales",
+      "mapping_category": "Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4111316",
+      "account_name": "Sales - Non Finished Goods",
+      "mapping_category": "Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4111401",
+      "account_name": "Government Sales",
+      "mapping_category": "Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4111552",
+      "account_name": "Sales Manual",
+      "mapping_category": "Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4211301",
+      "account_name": "Un Realized Gain On Trading In",
+      "mapping_category": "Other income",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4211401",
+      "account_name": "Foreign Exchange Gain/(Loss)",
+      "mapping_category": "Foreign exchange gain (loss)",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4211402",
+      "account_name": "Rounding Diffrences",
+      "mapping_category": "Other income",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4211403",
+      "account_name": "Payment Differences",
+      "mapping_category": "Other income",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4211501",
+      "account_name": "Scrap Sales",
+      "mapping_category": "Other income",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4211504",
+      "account_name": "Gain/Loss Sales Of Fixed Asset",
+      "mapping_category": "Other income",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "4211803",
+      "account_name": "Other Income",
+      "mapping_category": "Other income",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111101",
+      "account_name": "Cogs Direct Material",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111102",
+      "account_name": "Cogs Direct Labour",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111103",
+      "account_name": "Cogs Production Overheads",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111104",
+      "account_name": "Cogs Machine Cost",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111105",
+      "account_name": "Cogs Inventory Adjustments",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111116",
+      "account_name": "Cogs-Non Finished Goods",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111118",
+      "account_name": "Cogs - Project Surcharges",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111119",
+      "account_name": "Cogs - Indirect Material",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5111143",
+      "account_name": "COGS-Addition COGS Project",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5112102",
+      "account_name": "Labour Cost Absorbtion",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5112103",
+      "account_name": "Machine Cost Absorbtion",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5112104",
+      "account_name": "Overhead Cost Absorbtion",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113101",
+      "account_name": "COGS Material (Variances)",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113102",
+      "account_name": "Cogs Direct Labour Variance",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113103",
+      "account_name": "Cogs Prod Overheads Variance",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113105",
+      "account_name": "Purchase Price Variance",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113107",
+      "account_name": "Actual Issue (Packing)",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113108",
+      "account_name": "Cogs (Manual)",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113124",
+      "account_name": "Inv Trf/Retn Result Variance",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113135",
+      "account_name": "COGS Machine Cost Variance",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113143",
+      "account_name": "Cost of Scrap Sale",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5113150",
+      "account_name": "Cogs Project Surcharge",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5114101",
+      "account_name": "Inventory Revaluation",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5114115",
+      "account_name": "Inventory Revaluation-Lpm",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5115102",
+      "account_name": "Production Cost(Machine)",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211101",
+      "account_name": "Charge From  It",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211102",
+      "account_name": "Charge From Hr",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211103",
+      "account_name": "Charge From General Services",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211104",
+      "account_name": "Charge From Maintenance",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211106",
+      "account_name": "Charge from Group Finance(ABC",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211107",
+      "account_name": "Charges From Group Top Managem",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211108",
+      "account_name": "Charge from Security",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211113",
+      "account_name": "Charge from VP Paper and Board",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211116",
+      "account_name": "Charge from OKA",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211117",
+      "account_name": "Charge from Talent Developmen",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211119",
+      "account_name": "Charge From Saudization",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211121",
+      "account_name": "Charge from Group Purchasing",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211122",
+      "account_name": "Charge from Cen. Spareparts WH",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211123",
+      "account_name": "Charge from Custom Clearance",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211124",
+      "account_name": "Chargefrom Central Chemical WH",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211125",
+      "account_name": "Charge from Housing",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5211126",
+      "account_name": "Charge from Bus. Excellence",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5212105",
+      "account_name": "Car Rent Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5212106",
+      "account_name": "Truck Rent Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5212107",
+      "account_name": "Forklift Rent Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5212109",
+      "account_name": "Warehouse Rent Expense",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5212112",
+      "account_name": "Office Land Rent Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5213101",
+      "account_name": "Water Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5213102",
+      "account_name": "Electricity Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5213201",
+      "account_name": "Mailing Expense",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5213301",
+      "account_name": "Telephone Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5213303",
+      "account_name": "Mobile Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5213304",
+      "account_name": "Internet Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214101",
+      "account_name": "Car Fuel Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214102",
+      "account_name": "Gas Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214201",
+      "account_name": "Vehicle Expense",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214203",
+      "account_name": "Plant Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214206",
+      "account_name": "Building Expense",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214211",
+      "account_name": "Forklift Maint & Spares Exp",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214214",
+      "account_name": "Mach&Equip.S/Part Break.Manual",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214218",
+      "account_name": "Car & Trucks Vehicle Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214219",
+      "account_name": "Plant (Mach&Equipt) Maint.Exp",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214224",
+      "account_name": "Stationery Exp Manual",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214225",
+      "account_name": "Building & Office Exp (Manual)",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214226",
+      "account_name": "Car Truck & Sparepart (Manual)",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214234",
+      "account_name": "Mach&Equip.S/Parts Breaked",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214235",
+      "account_name": "Hardware & Software Expense",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5214239",
+      "account_name": "Forklift Maint & Spares-Manual",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5215102",
+      "account_name": "Certification Charges",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5215103",
+      "account_name": "Attestation Fee (COC, Ministry",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5215104",
+      "account_name": "Car,Truck Plate & License",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5215201",
+      "account_name": "Audit Fees",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5215202",
+      "account_name": "Legal Fees",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5215203",
+      "account_name": "Iso 9001-2000",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5215205",
+      "account_name": "Consultancy Charges",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5215208",
+      "account_name": "Subscription",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5216101",
+      "account_name": "Property All Risks Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5216102",
+      "account_name": "Vehicle Insurance",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5216104",
+      "account_name": "Money Insurance Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5216105",
+      "account_name": "Marine Insurance Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217101",
+      "account_name": "Cleaning Expense",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217102",
+      "account_name": "Boufiah Expense",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217103",
+      "account_name": "Drinking Water  Exp",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217104",
+      "account_name": "Hotel Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217109",
+      "account_name": "Boufiah Expense (Integration)",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217110",
+      "account_name": "Cleaning Expense (Manual)",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217201",
+      "account_name": "Recruitment Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217202",
+      "account_name": "Fair Participation Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5217205",
+      "account_name": "Guest Entertainment Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5218101",
+      "account_name": "Office Supplies Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5218102",
+      "account_name": "Stationery Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5218103",
+      "account_name": "Membership & Subscription",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5218107",
+      "account_name": "Training Material (OKA)",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5218108",
+      "account_name": "Office Supplies Exp (Manual)",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5219101",
+      "account_name": "Safety Materials Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5219103",
+      "account_name": "Safety Materials Exp. (Manual)",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221102",
+      "account_name": "Samples Exp.",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221105",
+      "account_name": "Bad Debts W/Off",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221201",
+      "account_name": "Freight Expense for Sales",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221203",
+      "account_name": "Customs Clearance Exp.",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221205",
+      "account_name": "Demurrage Charges Exp.",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221206",
+      "account_name": "Travel Exp.",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221208",
+      "account_name": "Surcharge Pcs Project",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221211",
+      "account_name": "Freight Expenses Sales-Manual",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221303",
+      "account_name": "Business Development Exp",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5221305",
+      "account_name": "Tender  Fees",
+      "mapping_category": "Selling and distribution",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231101",
+      "account_name": "Salaries Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231102",
+      "account_name": "Housing Allowance Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231103",
+      "account_name": "Transportation Allowance Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231105",
+      "account_name": "Overtime Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231106",
+      "account_name": "Bonus Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231107",
+      "account_name": "Air Ticket Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231108",
+      "account_name": "Annual Vacation Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231109",
+      "account_name": "Visa & Iqama Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231110",
+      "account_name": "Medical Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231111",
+      "account_name": "Working Meals Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231112",
+      "account_name": "End Of Service Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231113",
+      "account_name": "Manpower Contract Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231114",
+      "account_name": "Food Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231115",
+      "account_name": "Uniforms Exp.",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231118",
+      "account_name": "GOSI Expense-Non Saudi",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231121",
+      "account_name": "GOSI Expense -Saudis",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231122",
+      "account_name": "Conveyance Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231123",
+      "account_name": "Staff Welfare Expenses",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231125",
+      "account_name": "Other Employee Benefits",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231126",
+      "account_name": "Deductions",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231139",
+      "account_name": "Special Allowances",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231147",
+      "account_name": "Uniforms Exp. (Manual)",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5231150",
+      "account_name": "Gain/loss of employees? ter",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241110",
+      "account_name": "Int on Long Term Loans-RYD",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241199",
+      "account_name": "Interest on Long Term Loans",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241299",
+      "account_name": "Interest on Short Term Loans",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241302",
+      "account_name": "Int on Refinance Loans-SAMBA",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241312",
+      "account_name": "Int on Refinance Loans-AlBilad",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241401",
+      "account_name": "LC Charges",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241501",
+      "account_name": "LG Charges",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241601",
+      "account_name": "Facility Fees",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241702",
+      "account_name": "Other Finance Cost",
+      "mapping_category": "General and administration",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5241805",
+      "account_name": "Bank Charges",
+      "mapping_category": "Financial charges",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5251101",
+      "account_name": "Depreciation Building",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5251102",
+      "account_name": "Depreciation Plant & Machinery",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5251103",
+      "account_name": "Depreciation Furniture",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5251104",
+      "account_name": "Depreciation Fixture",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5251106",
+      "account_name": "Depreciation Equipment",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5251107",
+      "account_name": "Depreciation Computers",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5251111",
+      "account_name": "Depreciation Tools",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5251112",
+      "account_name": "Depreciation Mobile",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5261101",
+      "account_name": "Zakat",
+      "mapping_category": "Tax",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5311304",
+      "account_name": "Currency Profit/ Loss(Purchase",
+      "mapping_category": "Financial charges",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5311308",
+      "account_name": "Provision For Inventory Losses",
+      "mapping_category": "Cost of Sales",
+      "statement_raw": "Income Statement"
+    },
+    {
+      "account_code": "5311309",
+      "account_name": "Currency Difference",
+      "mapping_category": "Financial charges",
+      "statement_raw": "Income Statement"
+    }
+  ],
+  "meta": {
+    "detectedColumns": [
+      "Ledger Account",
+      "Ledger Name",
+      "Mapping",
+      "Financial Statement Items"
+    ],
+    "codeCol": "Ledger Account",
+    "nameCol": "Ledger Name",
+    "debitCol": null,
+    "creditCol": null,
+    "balanceCol": null,
+    "rowCount": 341
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "account_code": "",
+      "account_name": "1111102",
+      "balance": 37715
+    },
+    {
+      "account_code": "",
+      "account_name": "1112103",
+      "balance": 0
+    },
+    {
+      "account_code": "",
+      "account_name": "1112112",
+      "balance": 327509
+    },
+    {
+      "account_code": "",
+      "account_name": "1121101",
+      "balance": 1241358
+    },
+    {
+      "account_code": "",
+      "account_name": "2001001",
+      "balance": -500000
+    },
+    {
+      "account_code": "",
+      "account_name": "4001001",
+      "balance": -985000
+    },
+    {
+      "account_code": "",
+      "account_name": "5001001",
+      "balance": 620000
+    }
+  ],
+  "meta": {
+    "detectedColumns": [
+      "Ledger Account",
+      "Ledger Name",
+      "Opening Balance",
+      "Closing Balance"
+    ],
+    "codeCol": null,
+    "nameCol": "Ledger Account",
+    "debitCol": null,
+    "creditCol": null,
+    "balanceCol": "Closing Balance",
+    "rowCount": 7
+  }
+}

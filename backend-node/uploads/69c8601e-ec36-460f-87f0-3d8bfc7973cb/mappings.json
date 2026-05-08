@@ -1,0 +1,2730 @@
+[
+  {
+    "account_code": "1111102",
+    "account_name": "Purchase Fund",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1112103",
+    "account_name": "Riyad Bank SAR",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Cash and Cash Equivalents",
+    "sign": 1
+  },
+  {
+    "account_code": "1112112",
+    "account_name": "Bank AlBilad SAR",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Cash and Cash Equivalents",
+    "sign": 1
+  },
+  {
+    "account_code": "1112121",
+    "account_name": "AlInma Bank SAR",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Cash and Cash Equivalents",
+    "sign": 1
+  },
+  {
+    "account_code": "1112216",
+    "account_name": "ANP AlInma Bank",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Cash and Cash Equivalents",
+    "sign": 1
+  },
+  {
+    "account_code": "1121101",
+    "account_name": "Accounts Receivable Local",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Accounts Receivable",
+    "sign": 1
+  },
+  {
+    "account_code": "1121102",
+    "account_name": "Advance Receipts Local",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1121103",
+    "account_name": "Unallocated Receipts Local",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1121201",
+    "account_name": "Account Receivable Export",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Accounts Receivable",
+    "sign": 1
+  },
+  {
+    "account_code": "1121301",
+    "account_name": "Account Receivable Intercompan",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Accounts Receivable",
+    "sign": 1
+  },
+  {
+    "account_code": "1121401",
+    "account_name": "Account Receivable Government",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Accounts Receivable",
+    "sign": 1
+  },
+  {
+    "account_code": "1122101",
+    "account_name": "Accounts Receivable Others",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Accounts Receivable",
+    "sign": 1
+  },
+  {
+    "account_code": "1122102",
+    "account_name": "Provision For Bad Debts-Others",
+    "statement": "balance_sheet",
+    "category": "Non-Current Liabilities",
+    "subcategory": "Other Non-Current Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "1122105",
+    "account_name": "Accounts Under Clearance",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Accounts Receivable",
+    "sign": 1
+  },
+  {
+    "account_code": "1131101",
+    "account_name": "Prepaid Property All Risks Exp",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1131103",
+    "account_name": "Prepaid Money Insurance Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "1131104",
+    "account_name": "Prepaid Marine Insurance Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "1131105",
+    "account_name": "Prepaid Vehicle Insurance Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "1131106",
+    "account_name": "Prepaid Medical Insurance Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "1131201",
+    "account_name": "Prepaid Housing Allowance Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1131301",
+    "account_name": "Prepaid Warehouse Rent Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1131303",
+    "account_name": "Prepaid Factory Buillding Rent",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1131306",
+    "account_name": "Prepaid Land Rent",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1131501",
+    "account_name": "Prepaid Mempershep Fee",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1131503",
+    "account_name": "Prepaid Legal Fee",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1131602",
+    "account_name": "Custom Duty Refundable",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1131606",
+    "account_name": "Prepaid Others",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1131607",
+    "account_name": "Prepaid Saudization",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1131611",
+    "account_name": "LG Margin Deposit",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1131701",
+    "account_name": "Prepaid Interest",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1132101",
+    "account_name": "Advance To Employees(Loan)",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "1132102",
+    "account_name": "Advance To Employees(Others)",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "1132103",
+    "account_name": "Advance To Employees(Car)",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "1132104",
+    "account_name": "Advance To Employees(Samsung)",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "1132113",
+    "account_name": "Advance Visa Charges Deposits",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1132201",
+    "account_name": "Advance To Suppliers-Domestic",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1132202",
+    "account_name": "Advance To Suppliers-Foreign",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1132210",
+    "account_name": "Net Advance to Suppliers-VAT",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1132211",
+    "account_name": "Gross Advance to Suppliers-VAT",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "1151101",
+    "account_name": "Cur Acnt-ABC",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151102",
+    "account_name": "Cur Acnt-OPP",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151103",
+    "account_name": "Cur Acnt-Commercial Printing",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151104",
+    "account_name": "Cur Acnt-Folding Carton (Packa",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151105",
+    "account_name": "Cur Acnt-Graphic Center (OGC)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151107",
+    "account_name": "Cur Acnt-Flexible",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151108",
+    "account_name": "Cur Acnt-Paper Industries (OPI",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151109",
+    "account_name": "Cur Acnt-Technical Fabrics (OT",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151110",
+    "account_name": "Cur Acnt-Tensile Structures (O",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151111",
+    "account_name": "Cur Acnt-Education (ORD)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151113",
+    "account_name": "Cur Acnt-Refal Environment",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151114",
+    "account_name": "Cur Acnt-Rigid Plastic",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151118",
+    "account_name": "Cur Acnt-Real Estate",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151124",
+    "account_name": "Cur Acnt-ABCn Packaging Tec",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1151125",
+    "account_name": "Cur Acnt-ABCn Digital Compa",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1152101",
+    "account_name": "Cur Acnt-Elopak",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1152106",
+    "account_name": "Cur Acnt-Refal Binding",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1161101",
+    "account_name": "Raw Materials - Main",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1161103",
+    "account_name": "Inventory - Rm Ink",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1161104",
+    "account_name": "Inventory - Rm Prepress",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1161401",
+    "account_name": "Consignment Ink Inventory",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1161402",
+    "account_name": "Consignment Accrual - Po",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "1163101",
+    "account_name": "Work In Progress",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1163110",
+    "account_name": "Wip - Project (Pcs)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1163112",
+    "account_name": "Work In Progres -Opening",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1163121",
+    "account_name": "Stock Preparation Buffer Stock",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1163126",
+    "account_name": "Work In Progress (Integration)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1164101",
+    "account_name": "Finished Goods",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1164123",
+    "account_name": "Scrap Inventory",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1166101",
+    "account_name": "Stationery",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1168101",
+    "account_name": "Spare Parts",
+    "statement": "balance_sheet",
+    "category": "Equity",
+    "subcategory": "Share Capital",
+    "sign": -1
+  },
+  {
+    "account_code": "1168102",
+    "account_name": "Auto Shop",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1168103",
+    "account_name": "Slow Moving Item - Provision",
+    "statement": "balance_sheet",
+    "category": "Non-Current Liabilities",
+    "subcategory": "Other Non-Current Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "1168201",
+    "account_name": "Consumables",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1181107",
+    "account_name": "Interim Fixed Assets",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Intangible Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1181108",
+    "account_name": "Interim - Transit General",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "1181109",
+    "account_name": "Interim - Variance",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1181111",
+    "account_name": "Interim - Sales Revenues",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "1181112",
+    "account_name": "Interim - Cogs",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "1181113",
+    "account_name": "Inventory Interim Opening Bala",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "1181115",
+    "account_name": "Fixed Assets Disposal",
+    "statement": "cash_flow",
+    "category": "Investing Activities",
+    "subcategory": "Proceeds from Asset Sales",
+    "sign": 1
+  },
+  {
+    "account_code": "1181124",
+    "account_name": "Interm Cost Serv/Maint-Manual",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1181148",
+    "account_name": "Opening Balance (Inventory)",
+    "statement": "equity",
+    "category": "Changes in Equity",
+    "subcategory": "Opening Balance",
+    "sign": 1
+  },
+  {
+    "account_code": "1181169",
+    "account_name": "Interim - Transit Consignment",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1181177",
+    "account_name": "Interim Cost To Be Received",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1181185",
+    "account_name": "Interim Intercompany Transacti",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1181188",
+    "account_name": "Value Added Tax-Output",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1181189",
+    "account_name": "Value Added Tax-Input",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1189999",
+    "account_name": "Interim A/C-Interco",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1261101",
+    "account_name": "Building",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261102",
+    "account_name": "Plant & Machinery",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261103",
+    "account_name": "Equipments",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261104",
+    "account_name": "Furniture",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261105",
+    "account_name": "Fixture",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261106",
+    "account_name": "Vehicles",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261107",
+    "account_name": "Computer Hardware & Software",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Intangible Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1261111",
+    "account_name": "Tools",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "1261112",
+    "account_name": "Mobile",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1261201",
+    "account_name": "Accum. Depreciation Building",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "1261202",
+    "account_name": "Accum. Depreciation Plant and",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "1261203",
+    "account_name": "Accum. Dep - Equipments",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261204",
+    "account_name": "Acc.Dep'n Furnitures",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261205",
+    "account_name": "Acc.Dep'n Fixtures",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261206",
+    "account_name": "Acc.Dep'n Vehicle",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1261207",
+    "account_name": "Acc.Dep'n Computers",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "1261211",
+    "account_name": "Accumulated Deprn Tools",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Accumulated Depreciation",
+    "sign": 1
+  },
+  {
+    "account_code": "1261212",
+    "account_name": "Accumulated Deprn Mobile",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Accumulated Depreciation",
+    "sign": 1
+  },
+  {
+    "account_code": "1262101",
+    "account_name": "Project",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "1262201",
+    "account_name": "Project",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "2111101",
+    "account_name": "Accounts Payable - Local",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accounts Payable",
+    "sign": -1
+  },
+  {
+    "account_code": "2111102",
+    "account_name": "Accounts Payable - Foreign",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accounts Payable",
+    "sign": -1
+  },
+  {
+    "account_code": "2111103",
+    "account_name": "Accounts Payable -Intercompany",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accounts Payable",
+    "sign": -1
+  },
+  {
+    "account_code": "2111105",
+    "account_name": "Un-Allocated Payments(Local)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2111106",
+    "account_name": "Un-Allocated Payments(Export)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2111107",
+    "account_name": "Un-Allocated Payments(Interco)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2111111",
+    "account_name": "Invoice To Be Received",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2111113",
+    "account_name": "Invoice To Be Recieved(Manual)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2111115",
+    "account_name": "Anticipated Payments (Import)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2111117",
+    "account_name": "Registered Invoices (Local)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2111118",
+    "account_name": "Registered Invoices (Import)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2111140",
+    "account_name": "Anticipated Payments (Local)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2121101",
+    "account_name": "Accrued Manpower Contract Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121102",
+    "account_name": "Accrued Food Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121104",
+    "account_name": "Accrued Air Ticket Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121105",
+    "account_name": "Accrued Annual Vacation Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121106",
+    "account_name": "Accrued Visa & Iqama Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121107",
+    "account_name": "Accrued Gosi Expense",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121108",
+    "account_name": "Accrued Payroll",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121109",
+    "account_name": "Accrued Bonus",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121114",
+    "account_name": "Accrued Salary",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121201",
+    "account_name": "Accrued Car Rent Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121202",
+    "account_name": "Accrued Building Rent",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "2121301",
+    "account_name": "Accrued Electricity Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121302",
+    "account_name": "Accrued Telephone Expense",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "2121303",
+    "account_name": "Accrued Gas Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121310",
+    "account_name": "Accrued Water Expense",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121401",
+    "account_name": "Accr Int Long Term Loan (SHB)",
+    "statement": "balance_sheet",
+    "category": "Non-Current Liabilities",
+    "subcategory": "Long-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "2121410",
+    "account_name": "Accr Int Long Term Loan (RYD)",
+    "statement": "balance_sheet",
+    "category": "Non-Current Liabilities",
+    "subcategory": "Long-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "2121416",
+    "account_name": "Acc Int Short Term Loan(SAMBA)",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Short-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "2121433",
+    "account_name": "Int Payable - BLD",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accounts Payable",
+    "sign": -1
+  },
+  {
+    "account_code": "2121440",
+    "account_name": "Accr Int Short Term Loan (Alin",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Short-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "2121496",
+    "account_name": "Accr Interest Long Term Loan",
+    "statement": "balance_sheet",
+    "category": "Non-Current Liabilities",
+    "subcategory": "Long-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "2121497",
+    "account_name": "Accr Interest Short Term Loan",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Short-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "2121501",
+    "account_name": "Accrued Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121601",
+    "account_name": "Accrued Audit Fees",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121801",
+    "account_name": "Accrued Others",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121802",
+    "account_name": "Accrued Shipping Cost",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121807",
+    "account_name": "Accrued Bonus- Others",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121809",
+    "account_name": "Accrued Freight Cost",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2121822",
+    "account_name": "Accrued Marine Insurance",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "2122101",
+    "account_name": "Advance From Customers- Local",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "2122103",
+    "account_name": "Advance From Customers- Interc",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "2122107",
+    "account_name": "Net Advance from Customers-VAT",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "2122108",
+    "account_name": "Gross Adv. from Customers-VAT",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2123102",
+    "account_name": "Salary Balances to be paid",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "2125101",
+    "account_name": "Value Added Tax-Payable",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accounts Payable",
+    "sign": -1
+  },
+  {
+    "account_code": "2125102",
+    "account_name": "Accrued Value Added Tax",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accrued Liabilities",
+    "sign": -1
+  },
+  {
+    "account_code": "2141102",
+    "account_name": "Due To Subsidiaries - Opp",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141103",
+    "account_name": "Due To Subsidiaries - Paper In",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141104",
+    "account_name": "Due To Subsidiaries - Technica",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141105",
+    "account_name": "Due To Subsidiaries - Tensile",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141106",
+    "account_name": "Due To Subsidiaries - Educatio",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141107",
+    "account_name": "Due To Subsidiaries - Bookstor",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141109",
+    "account_name": "Due To Subsidiaries - Real Est",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141111",
+    "account_name": "Due To Subs - Folding Cartons",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141112",
+    "account_name": "Due To Subs - Graphic Center",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141114",
+    "account_name": "Due To Subs-Flexible",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141124",
+    "account_name": "Due To Subs-Packaging Technolo",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2141125",
+    "account_name": "Due To Subs-ABCn Digital Co",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2142107",
+    "account_name": "Due To Joint Ventures - Refal",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2151110",
+    "account_name": "LC Refinance (SAMBA)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "2152110",
+    "account_name": "Short Term Loan-SAMBA",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Short-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "2171101",
+    "account_name": "Zakat Payable",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Accounts Payable",
+    "sign": -1
+  },
+  {
+    "account_code": "2231101",
+    "account_name": "Employees Terminal Benefits",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "2231102",
+    "account_name": "Employees Terminal Ben.-Actuar",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "3111101",
+    "account_name": "Share Capital",
+    "statement": "balance_sheet",
+    "category": "Equity",
+    "subcategory": "Share Capital",
+    "sign": -1
+  },
+  {
+    "account_code": "3311101",
+    "account_name": "Retained Earnings",
+    "statement": "balance_sheet",
+    "category": "Equity",
+    "subcategory": "Retained Earnings",
+    "sign": -1
+  },
+  {
+    "account_code": "3511101",
+    "account_name": "Foreign Currency Translation R",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "3611102",
+    "account_name": "Subordinated Loan",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "4111101",
+    "account_name": "Local Sales",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "4111301",
+    "account_name": "Intercompany Sales",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "4111316",
+    "account_name": "Sales - Non Finished Goods",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "4111401",
+    "account_name": "Government Sales",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "4111552",
+    "account_name": "Sales Manual",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "4211301",
+    "account_name": "Un Realized Gain On Trading In",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "4211401",
+    "account_name": "Foreign Exchange Gain/(Loss)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "4211402",
+    "account_name": "Rounding Diffrences",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "4211403",
+    "account_name": "Payment Differences",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "4211501",
+    "account_name": "Scrap Sales",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "4211504",
+    "account_name": "Gain/Loss Sales Of Fixed Asset",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "4211803",
+    "account_name": "Other Income",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Other Income",
+    "sign": -1
+  },
+  {
+    "account_code": "5111101",
+    "account_name": "Cogs Direct Material",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5111102",
+    "account_name": "Cogs Direct Labour",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5111103",
+    "account_name": "Cogs Production Overheads",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5111104",
+    "account_name": "Cogs Machine Cost",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5111105",
+    "account_name": "Cogs Inventory Adjustments",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "5111116",
+    "account_name": "Cogs-Non Finished Goods",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Inventory",
+    "sign": 1
+  },
+  {
+    "account_code": "5111118",
+    "account_name": "Cogs - Project Surcharges",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5111119",
+    "account_name": "Cogs - Indirect Material",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5111143",
+    "account_name": "COGS-Addition COGS Project",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5112102",
+    "account_name": "Labour Cost Absorbtion",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5112103",
+    "account_name": "Machine Cost Absorbtion",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5112104",
+    "account_name": "Overhead Cost Absorbtion",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5113101",
+    "account_name": "COGS Material (Variances)",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5113102",
+    "account_name": "Cogs Direct Labour Variance",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5113103",
+    "account_name": "Cogs Prod Overheads Variance",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5113105",
+    "account_name": "Purchase Price Variance",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5113107",
+    "account_name": "Actual Issue (Packing)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5113108",
+    "account_name": "Cogs (Manual)",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5113124",
+    "account_name": "Inv Trf/Retn Result Variance",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5113135",
+    "account_name": "COGS Machine Cost Variance",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5113143",
+    "account_name": "Cost of Scrap Sale",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5113150",
+    "account_name": "Cogs Project Surcharge",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5114101",
+    "account_name": "Inventory Revaluation",
+    "statement": "balance_sheet",
+    "category": "Equity",
+    "subcategory": "Other Reserves",
+    "sign": -1
+  },
+  {
+    "account_code": "5114115",
+    "account_name": "Inventory Revaluation-Lpm",
+    "statement": "balance_sheet",
+    "category": "Equity",
+    "subcategory": "Other Reserves",
+    "sign": -1
+  },
+  {
+    "account_code": "5115102",
+    "account_name": "Production Cost(Machine)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211101",
+    "account_name": "Charge From  It",
+    "statement": "cash_flow",
+    "category": "Operating Activities",
+    "subcategory": "Cash from Operations",
+    "sign": 1
+  },
+  {
+    "account_code": "5211102",
+    "account_name": "Charge From Hr",
+    "statement": "cash_flow",
+    "category": "Operating Activities",
+    "subcategory": "Cash from Operations",
+    "sign": 1
+  },
+  {
+    "account_code": "5211103",
+    "account_name": "Charge From General Services",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5211104",
+    "account_name": "Charge From Maintenance",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211106",
+    "account_name": "Charge from Group Finance(ABC",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211107",
+    "account_name": "Charges From Group Top Managem",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211108",
+    "account_name": "Charge from Security",
+    "statement": "cash_flow",
+    "category": "Operating Activities",
+    "subcategory": "Cash from Operations",
+    "sign": 1
+  },
+  {
+    "account_code": "5211113",
+    "account_name": "Charge from VP Paper and Board",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211116",
+    "account_name": "Charge from OKA",
+    "statement": "cash_flow",
+    "category": "Operating Activities",
+    "subcategory": "Cash from Operations",
+    "sign": 1
+  },
+  {
+    "account_code": "5211117",
+    "account_name": "Charge from Talent Developmen",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211119",
+    "account_name": "Charge From Saudization",
+    "statement": "cash_flow",
+    "category": "Operating Activities",
+    "subcategory": "Cash from Operations",
+    "sign": 1
+  },
+  {
+    "account_code": "5211121",
+    "account_name": "Charge from Group Purchasing",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211122",
+    "account_name": "Charge from Cen. Spareparts WH",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211123",
+    "account_name": "Charge from Custom Clearance",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211124",
+    "account_name": "Chargefrom Central Chemical WH",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211125",
+    "account_name": "Charge from Housing",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5211126",
+    "account_name": "Charge from Bus. Excellence",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5212105",
+    "account_name": "Car Rent Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Rent and Occupancy",
+    "sign": 1
+  },
+  {
+    "account_code": "5212106",
+    "account_name": "Truck Rent Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Rent and Occupancy",
+    "sign": 1
+  },
+  {
+    "account_code": "5212107",
+    "account_name": "Forklift Rent Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Rent and Occupancy",
+    "sign": 1
+  },
+  {
+    "account_code": "5212109",
+    "account_name": "Warehouse Rent Expense",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Rent and Occupancy",
+    "sign": 1
+  },
+  {
+    "account_code": "5212112",
+    "account_name": "Office Land Rent Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5213101",
+    "account_name": "Water Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5213102",
+    "account_name": "Electricity Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5213201",
+    "account_name": "Mailing Expense",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5213301",
+    "account_name": "Telephone Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5213303",
+    "account_name": "Mobile Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5213304",
+    "account_name": "Internet Expenses",
+    "statement": "income_statement",
+    "category": "Finance Costs",
+    "subcategory": "Interest Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5214101",
+    "account_name": "Car Fuel Exp.",
+    "statement": "cash_flow",
+    "category": "Investing Activities",
+    "subcategory": "Capital Expenditure",
+    "sign": 1
+  },
+  {
+    "account_code": "5214102",
+    "account_name": "Gas Exp.",
+    "statement": "income_statement",
+    "category": "Income Tax",
+    "subcategory": "Income Tax Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5214201",
+    "account_name": "Vehicle Expense",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "5214203",
+    "account_name": "Plant Exp.",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "5214206",
+    "account_name": "Building Expense",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "5214211",
+    "account_name": "Forklift Maint & Spares Exp",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5214214",
+    "account_name": "Mach&Equip.S/Part Break.Manual",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5214218",
+    "account_name": "Car & Trucks Vehicle Exp.",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "5214219",
+    "account_name": "Plant (Mach&Equipt) Maint.Exp",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "5214224",
+    "account_name": "Stationery Exp Manual",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5214225",
+    "account_name": "Building & Office Exp (Manual)",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "5214226",
+    "account_name": "Car Truck & Sparepart (Manual)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5214234",
+    "account_name": "Mach&Equip.S/Parts Breaked",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5214235",
+    "account_name": "Hardware & Software Expense",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Intangible Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5214239",
+    "account_name": "Forklift Maint & Spares-Manual",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5215102",
+    "account_name": "Certification Charges",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5215103",
+    "account_name": "Attestation Fee (COC, Ministry",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5215104",
+    "account_name": "Car,Truck Plate & License",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Intangible Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5215201",
+    "account_name": "Audit Fees",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Professional Fees",
+    "sign": 1
+  },
+  {
+    "account_code": "5215202",
+    "account_name": "Legal Fees",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Professional Fees",
+    "sign": 1
+  },
+  {
+    "account_code": "5215203",
+    "account_name": "Iso 9001-2000",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5215205",
+    "account_name": "Consultancy Charges",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5215208",
+    "account_name": "Subscription",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5216101",
+    "account_name": "Property All Risks Exp.",
+    "statement": "balance_sheet",
+    "category": "Non-Current Assets",
+    "subcategory": "Property, Plant and Equipment",
+    "sign": 1
+  },
+  {
+    "account_code": "5216102",
+    "account_name": "Vehicle Insurance",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5216104",
+    "account_name": "Money Insurance Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5216105",
+    "account_name": "Marine Insurance Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5217101",
+    "account_name": "Cleaning Expense",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5217102",
+    "account_name": "Boufiah Expense",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5217103",
+    "account_name": "Drinking Water  Exp",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5217104",
+    "account_name": "Hotel Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5217109",
+    "account_name": "Boufiah Expense (Integration)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5217110",
+    "account_name": "Cleaning Expense (Manual)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5217201",
+    "account_name": "Recruitment Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5217202",
+    "account_name": "Fair Participation Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5217205",
+    "account_name": "Guest Entertainment Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5218101",
+    "account_name": "Office Supplies Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5218102",
+    "account_name": "Stationery Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5218103",
+    "account_name": "Membership & Subscription",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5218107",
+    "account_name": "Training Material (OKA)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5218108",
+    "account_name": "Office Supplies Exp (Manual)",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5219101",
+    "account_name": "Safety Materials Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5219103",
+    "account_name": "Safety Materials Exp. (Manual)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5221102",
+    "account_name": "Samples Exp.",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "5221105",
+    "account_name": "Bad Debts W/Off",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Bad Debt Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5221201",
+    "account_name": "Freight Expense for Sales",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "5221203",
+    "account_name": "Customs Clearance Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5221205",
+    "account_name": "Demurrage Charges Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5221206",
+    "account_name": "Travel Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "General and Administrative",
+    "sign": 1
+  },
+  {
+    "account_code": "5221208",
+    "account_name": "Surcharge Pcs Project",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5221211",
+    "account_name": "Freight Expenses Sales-Manual",
+    "statement": "income_statement",
+    "category": "Revenue",
+    "subcategory": "Sales Revenue",
+    "sign": -1
+  },
+  {
+    "account_code": "5221303",
+    "account_name": "Business Development Exp",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5221305",
+    "account_name": "Tender  Fees",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231101",
+    "account_name": "Salaries Exp.",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "5231102",
+    "account_name": "Housing Allowance Exp.",
+    "statement": "equity",
+    "category": "Changes in Equity",
+    "subcategory": "Opening Balance",
+    "sign": 1
+  },
+  {
+    "account_code": "5231103",
+    "account_name": "Transportation Allowance Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231105",
+    "account_name": "Overtime Exp.",
+    "statement": "income_statement",
+    "category": "Income Tax",
+    "subcategory": "Income Tax Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5231106",
+    "account_name": "Bonus Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231107",
+    "account_name": "Air Ticket Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231108",
+    "account_name": "Annual Vacation Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231109",
+    "account_name": "Visa & Iqama Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231110",
+    "account_name": "Medical Expenses",
+    "statement": "income_statement",
+    "category": "Income Tax",
+    "subcategory": "Income Tax Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5231111",
+    "account_name": "Working Meals Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231112",
+    "account_name": "End Of Service Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231113",
+    "account_name": "Manpower Contract Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231114",
+    "account_name": "Food Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5231115",
+    "account_name": "Uniforms Exp.",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231118",
+    "account_name": "GOSI Expense-Non Saudi",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231121",
+    "account_name": "GOSI Expense -Saudis",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Bad Debt Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5231122",
+    "account_name": "Conveyance Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5231123",
+    "account_name": "Staff Welfare Expenses",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Prepaid Expenses",
+    "sign": 1
+  },
+  {
+    "account_code": "5231125",
+    "account_name": "Other Employee Benefits",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "5231126",
+    "account_name": "Deductions",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231139",
+    "account_name": "Special Allowances",
+    "statement": "equity",
+    "category": "Changes in Equity",
+    "subcategory": "Opening Balance",
+    "sign": 1
+  },
+  {
+    "account_code": "5231147",
+    "account_name": "Uniforms Exp. (Manual)",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5231150",
+    "account_name": "Gain/loss of employees? ter",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Salaries and Wages",
+    "sign": 1
+  },
+  {
+    "account_code": "5241110",
+    "account_name": "Int on Long Term Loans-RYD",
+    "statement": "balance_sheet",
+    "category": "Non-Current Liabilities",
+    "subcategory": "Long-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "5241199",
+    "account_name": "Interest on Long Term Loans",
+    "statement": "balance_sheet",
+    "category": "Non-Current Liabilities",
+    "subcategory": "Long-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "5241299",
+    "account_name": "Interest on Short Term Loans",
+    "statement": "balance_sheet",
+    "category": "Current Liabilities",
+    "subcategory": "Short-term Borrowings",
+    "sign": -1
+  },
+  {
+    "account_code": "5241302",
+    "account_name": "Int on Refinance Loans-SAMBA",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5241312",
+    "account_name": "Int on Refinance Loans-AlBilad",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5241401",
+    "account_name": "LC Charges",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5241501",
+    "account_name": "LG Charges",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5241601",
+    "account_name": "Facility Fees",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  },
+  {
+    "account_code": "5241702",
+    "account_name": "Other Finance Cost",
+    "statement": "income_statement",
+    "category": "Finance Costs",
+    "subcategory": "Interest Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5241805",
+    "account_name": "Bank Charges",
+    "statement": "income_statement",
+    "category": "Finance Costs",
+    "subcategory": "Interest Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5251101",
+    "account_name": "Depreciation Building",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "5251102",
+    "account_name": "Depreciation Plant & Machinery",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "5251103",
+    "account_name": "Depreciation Furniture",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "5251104",
+    "account_name": "Depreciation Fixture",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "5251106",
+    "account_name": "Depreciation Equipment",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "5251107",
+    "account_name": "Depreciation Computers",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "5251111",
+    "account_name": "Depreciation Tools",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "5251112",
+    "account_name": "Depreciation Mobile",
+    "statement": "income_statement",
+    "category": "Operating Expenses",
+    "subcategory": "Depreciation and Amortisation",
+    "sign": 1
+  },
+  {
+    "account_code": "5261101",
+    "account_name": "Zakat",
+    "statement": "income_statement",
+    "category": "Income Tax",
+    "subcategory": "Income Tax Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5311304",
+    "account_name": "Currency Profit/ Loss(Purchase",
+    "statement": "income_statement",
+    "category": "Finance Costs",
+    "subcategory": "Interest Expense",
+    "sign": 1
+  },
+  {
+    "account_code": "5311308",
+    "account_name": "Provision For Inventory Losses",
+    "statement": "income_statement",
+    "category": "Cost of Sales",
+    "subcategory": "Cost of Goods Sold",
+    "sign": 1
+  },
+  {
+    "account_code": "5311309",
+    "account_name": "Currency Difference",
+    "statement": "balance_sheet",
+    "category": "Current Assets",
+    "subcategory": "Other Current Assets",
+    "sign": 1
+  }
+]
