@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routers import upload, mapping, statements, notes, export
